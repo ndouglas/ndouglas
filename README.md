@@ -11,7 +11,7 @@
   - ... and too many other things to mention.
 - 👴 Pronouns: He/Him
 - 🎲 In my infinitesimal free time, I like:
-  - 🧱 building LEGO stuff with my kid
+  - 🧱 building LEGO stuff with my [kid](https://github.com/JomoDuggins)
   - 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
   - ☁️ working on my homelab, which never manages to develop quite as fast as my ideas
   - 🏋️‍♂️ lifting weights, building strength
