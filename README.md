@@ -16,7 +16,7 @@
   - ☁️ working on my homelab, which never manages to develop quite as fast as my ideas
   - 🏋️‍♂️ lifting weights, building strength
   - 🏃‍♂️ getting back into running, which currently is mostly physical therapy for my knees
-  - 
+  - 📚 reading (currently re-reading _A Song of Ice and Fire_: _A Storm of Swords_).
 - 💡 Thinking about (although never actually working on):
   - 🗡️ a roguelike game based around artificial intelligence and observability of NPCs
   - 📖 books about strange apocalypses
