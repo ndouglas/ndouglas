@@ -23,9 +23,10 @@
   - 🐠 automating my aquaria
   - 🥞 cooking, beyond some rudimentary stuff
   - 📻 listening to my ever-growing backlog of podcasts
-  - 🎮 my ever-growing backlog of unplayed or uncompleted video games
-  - 🎵 my ever-growing backlog of unlistened albums
-  - 🎥 my ever-growing backlog of unwatched films
+  - 😩 my ever-growing backlog of:
+    - 🎮 unplayed or uncompleted video games
+    - 🎵 [unlistened albums](https://rateyourmusic.com/collection/NathanDouglas/oo,fmt.)
+    - 🎥 [unwatched films](https://letterboxd.com/supertempt768/watchlist/)
     
 <!--
 **ndouglas/ndouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
