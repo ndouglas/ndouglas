@@ -13,7 +13,7 @@
 - 🎲 In my infinitesimal free time, I like:
   - 🧱 building LEGO stuff with my [kid](https://github.com/JomoDuggins)
   - 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
-  - ☁️ working on my homelab, which never manages to develop quite as fast as my ideas
+  - ☁️ working on my [homelab](https://github.com/hellholt/), which never manages to develop quite as fast as my ideas
   - 🏋️‍♂️ lifting weights, building strength
   - 🏃‍♂️ getting back into running, which currently is mostly physical therapy for my knees
   - 📚 reading (currently re-reading _A Song of Ice and Fire_: _A Storm of Swords_).
