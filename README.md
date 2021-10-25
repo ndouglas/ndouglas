@@ -17,8 +17,8 @@
   - 🏋️‍♂️ lifting weights, building strength
   - 🏃‍♂️ getting back into running, which currently is mostly physical therapy for my knees
   - 📚 reading (currently re-reading _A Song of Ice and Fire_: _A Storm of Swords_).
+  - 🗡️ a [roguelike game in Rust](https://github.com/ndouglas/downdelving) based around artificial intelligence and observability of NPCs
 - 💡 Thinking about (although never actually working on):
-  - 🗡️ a [roguelike game in Rust](https://github.com/ndouglas/azymus) based around artificial intelligence and observability of NPCs
   - 📖 books about strange apocalypses
   - 🐠 automating my aquaria
   - 🥞 cooking, beyond some rudimentary stuff
