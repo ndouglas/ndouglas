@@ -22,8 +22,8 @@
   - 📖 books about strange apocalypses
   - 🐠 automating my aquaria
   - 🥞 cooking, beyond some rudimentary stuff
-  - 📻 listening to my ever-growing backlog of podcasts
   - 😩 my ever-growing backlog of:
+    - 📻 podcasts
     - 🎮 unplayed or uncompleted video games
     - 🎵 [unlistened or unrated albums](https://rateyourmusic.com/collection/NathanDouglas/oo,fmt.,ss.td)
     - 🎥 [unwatched or unrated films](https://letterboxd.com/supertempt768/watchlist/)
