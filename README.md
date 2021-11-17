@@ -17,10 +17,10 @@
   - ☁️ working on my [homelab](https://github.com/hellholt/), which never manages to develop quite as fast as my ideas
   - 🏋️‍♂️ lifting weights, building strength
   - 🏃‍♂️ getting back into running, which currently is mostly physical therapy for my knees
-  - 📚 reading (currently re-reading _A Song of Ice and Fire_: _A Feast for Crows_ & _A Dance With Dragons_).
+  - 📚 reading fiction (currently re-reading _A Song of Ice and Fire_: _A Feast for Crows_ & _A Dance With Dragons_).
   - 🗡️ working on a [roguelike game in Rust](https://github.com/ndouglas/downdelving) based around artificial intelligence and observability of NPCs
 - 💡 Thinking about (although never actually working on):
-  - 📖 books about strange apocalypses
+  - 📖 writing books about strange apocalypses
   - 🐠 automating my aquaria
   - 🥞 cooking, beyond some rudimentary stuff
   - 😩 my ever-growing backlog of:
