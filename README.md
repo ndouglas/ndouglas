@@ -35,11 +35,9 @@
   - _[Elemental Design Patterns](https://www.amazon.com/gp/product/0321711920/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Jason Smith
   - _[Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/gp/product/0735619670/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)_ by Steve McConnell
   - _[Programming Pearls](https://www.amazon.com/gp/product/0201657880/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Jon Bentley
-  - _[The Best Software Writing I](https://www.amazon.com/gp/product/1590595009/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)_ by Joel Spolsky
   - _[Working Effectively With Legacy Code](https://www.amazon.com/gp/product/0131177052/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)_ by Michael Feathers
   - _[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/gp/product/0201633612/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1)_ by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides 
   - _[Structure and Interpretation of Computer Programs](https://www.amazon.com/gp/product/0262510871/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_ by Harold Abelman and Gerald Sussman
-  - _[How to Prove It: A Structured Approach](https://www.amazon.com/gp/product/0521675995/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)_ by Daniel Velleman
   - _[How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/gp/product/4871878309/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by George Polya
   - _[The Annotated Turing](https://www.amazon.com/gp/product/0470229055/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_ by Charles Petzold
   - _[Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by Thomas Cormen
@@ -67,9 +65,11 @@
   - _[HTTP: The Definitive Guide](https://www.amazon.com/gp/product/1565925092/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)_ by David Gourley
   - _[Game Programming Patterns](https://www.amazon.com/gp/product/0990582906/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)_ by Robert Nystrom
 - 📖 Currently Reading:
-  - _[Practices of an Agile Developer](https://www.amazon.com/gp/product/097451408X/ref=ppx_yo_dt_b_search_asin_title)_ by Venkat Subramaniam and Andy Hunt
+  - _[The Best Software Writing I](https://www.amazon.com/gp/product/1590595009/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)_ by Joel Spolsky
 - 📓 Currently Working Through:
+  - _[How to Prove It: A Structured Approach](https://www.amazon.com/gp/product/0521675995/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)_ by Daniel Velleman
 - 📕 Recently Finished Reading:
+  - _[Practices of an Agile Developer](https://www.amazon.com/gp/product/097451408X/ref=ppx_yo_dt_b_search_asin_title)_ by Venkat Subramaniam and Andy Hunt (⭐⭐⭐⭐⭐)
   - _[Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)_ by Tom DeMarco and Timothy Lister (⭐⭐⭐⭐⭐)
 
 <!--
