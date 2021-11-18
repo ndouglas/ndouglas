@@ -9,6 +9,7 @@
   - 📜 Loki
   - ⚛️ React
   - 🌊 Lagoon
+  - 🦀 Rust
   - ... and too many other things to mention.
 - 👴 Pronouns: He/Him
 - 🎲 In my infinitesimal free time, I like:
