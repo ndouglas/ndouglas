@@ -54,15 +54,15 @@
     - _[HTTP: The Definitive Guide](https://www.amazon.com/gp/product/1565925092/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)_ by David Gourley
     - _[Game Programming Patterns](https://www.amazon.com/gp/product/0990582906/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)_ by Robert Nystrom
   - Mathematics and Computer Science:
-    - _[Structure and Interpretation of Computer Programs](https://www.amazon.com/gp/product/0262510871/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_ by Harold Abelman and Gerald Sussman
     - _[How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/gp/product/4871878309/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by George Polya
     - _[How to Prove It: A Structured Approach](https://www.amazon.com/gp/product/0521675995/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)_ by Daniel Velleman
-    - _[The Annotated Turing](https://www.amazon.com/gp/product/0470229055/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_ by Charles Petzold
+    - _[Structure and Interpretation of Computer Programs](https://www.amazon.com/gp/product/0262510871/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_ by Harold Abelman and Gerald Sussman
+    - _[How to Design Programs](https://www.amazon.com/gp/product/0262534800/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by Matthias Felleisen
     - _[Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by Thomas Cormen
     - _[Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/gp/product/0201558025/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)_ by Ronald Graham, Donald Knuth, and Oren Patashnik
     - _[The Art of Computer Programming](https://www.amazon.com/gp/product/0321751043/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1)_ by Donald Knuth
-    - _[How to Design Programs](https://www.amazon.com/gp/product/0262534800/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by Matthias Felleisen
   - Design/Miscellaneous:
+    - _[The Annotated Turing](https://www.amazon.com/gp/product/0470229055/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_ by Charles Petzold
     - _[Notes on the Synthesis of Form](https://www.amazon.com/gp/product/0674627512/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Christopher Alexander
     - _[Things That Make Us Smart](https://www.amazon.com/gp/product/0201626950/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Donald A. Norman
     - _[A Pattern Language: Towns, Buildings, Construction](https://www.amazon.com/gp/product/0195019199/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)_ by Christopher Alexander
