@@ -72,6 +72,7 @@
     - _[Crafting Interpreters](https://www.amazon.com/gp/product/0990582930/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Robert Nystrom
     - _[The Best Software Writing I](https://www.amazon.com/gp/product/1590595009/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)_ by Joel Spolsky
 - 📖 Currently Reading:
+  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert C. Martin
 - 📓 Currently Working Through:
 - 📕 Recently Finished Reading:
   - _[ReWork](https://www.amazon.com/gp/product/0307463745/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Jason Fried (⭐⭐⭐⭐⭐)
