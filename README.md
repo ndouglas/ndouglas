@@ -39,6 +39,7 @@
   - _[ReWork](https://www.amazon.com/gp/product/0307463745/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Jason Fried (⭐⭐⭐⭐)
   - _[Practices of an Agile Developer](https://www.amazon.com/gp/product/097451408X/ref=ppx_yo_dt_b_search_asin_title)_ by Venkat Subramaniam and Andy Hunt (⭐⭐⭐⭐⭐)
   - _[Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)_ by Tom DeMarco and Timothy Lister (⭐⭐⭐⭐⭐)
+<!-- 
 - 📚 Books to Read, Re-Read, Work Through, Etc:
   - Languages:
     - _[Programming Rust: Fast, Safe Systems Development](https://www.amazon.com/gp/product/1492052590/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by Jim Blandy
@@ -78,7 +79,7 @@
     - _[User Story Mapping](https://www.amazon.com/gp/product/1491904909/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Jeff Patton
     - _[Crafting Interpreters](https://www.amazon.com/gp/product/0990582930/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Robert Nystrom
     - _[The Best Software Writing I](https://www.amazon.com/gp/product/1590595009/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)_ by Joel Spolsky
-
+-->
 <!--
 **ndouglas/ndouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
