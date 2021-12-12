@@ -26,8 +26,8 @@
 - 🧱 building LEGO stuff with my [kid](https://github.com/JomoDuggins)
 - 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
 - ☁️ working on my [homelab](https://github.com/hellholt/), which never manages to develop quite as fast as my ideas
-- 🏋️‍♂️ lifting weights, building strength
-- 🏃‍♂️ getting back into running, which currently is mostly physical therapy for my knees
+- 🏋️‍♂️ ~lifting weights, building strength~ jk lol, apparently I have arthritis
+- 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~
 - 📚 reading fiction (currently re-reading _A Song of Ice and Fire_: _A Feast for Crows_ & _A Dance With Dragons_).
 - 🗡️ working on a [roguelike game in Rust](https://github.com/ndouglas/downdelving) based around artificial intelligence and observability of NPCs
 
