@@ -29,7 +29,17 @@
     - 🎮 unplayed or uncompleted video games
     - 🎵 [unlistened or unrated albums](https://rateyourmusic.com/collection/NathanDouglas/oo,fmt.,ss.td)
     - 🎥 [unwatched or unrated films](https://letterboxd.com/supertempt768/watchlist/)
-- 📚 To Read, Re-Read, Work Through, Etc:
+- 📖 Currently Reading:
+  - _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/gp/product/161729831X/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Christian Clausen
+- 📓 Currently Working Through:
+  - _[How to Prove It: A Structured Approach](https://www.amazon.com/gp/product/0521675995/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)_ by Daniel Velleman
+- 📕 Recently Finished Reading:
+  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert C. Martin (⭐⭐⭐⭐⭐)
+  - _[How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/gp/product/4871878309/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by George Polya (⭐⭐⭐⭐)
+  - _[ReWork](https://www.amazon.com/gp/product/0307463745/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Jason Fried (⭐⭐⭐⭐)
+  - _[Practices of an Agile Developer](https://www.amazon.com/gp/product/097451408X/ref=ppx_yo_dt_b_search_asin_title)_ by Venkat Subramaniam and Andy Hunt (⭐⭐⭐⭐⭐)
+  - _[Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)_ by Tom DeMarco and Timothy Lister (⭐⭐⭐⭐⭐)
+- 📚 Books to Read, Re-Read, Work Through, Etc:
   - Languages:
     - _[Programming Rust: Fast, Safe Systems Development](https://www.amazon.com/gp/product/1492052590/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by Jim Blandy
     - _[Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer](https://www.amazon.com/gp/product/1593275919/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)_ by Daniel Higginbotham
@@ -68,16 +78,6 @@
     - _[User Story Mapping](https://www.amazon.com/gp/product/1491904909/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Jeff Patton
     - _[Crafting Interpreters](https://www.amazon.com/gp/product/0990582930/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Robert Nystrom
     - _[The Best Software Writing I](https://www.amazon.com/gp/product/1590595009/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)_ by Joel Spolsky
-- 📖 Currently Reading:
-  - _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/gp/product/161729831X/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Christian Clausen
-- 📓 Currently Working Through:
-  - _[How to Prove It: A Structured Approach](https://www.amazon.com/gp/product/0521675995/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)_ by Daniel Velleman
-- 📕 Recently Finished Reading:
-  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert C. Martin (⭐⭐⭐⭐⭐)
-  - _[How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/gp/product/4871878309/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by George Polya (⭐⭐⭐⭐)
-  - _[ReWork](https://www.amazon.com/gp/product/0307463745/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Jason Fried (⭐⭐⭐⭐)
-  - _[Practices of an Agile Developer](https://www.amazon.com/gp/product/097451408X/ref=ppx_yo_dt_b_search_asin_title)_ by Venkat Subramaniam and Andy Hunt (⭐⭐⭐⭐⭐)
-  - _[Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)_ by Tom DeMarco and Timothy Lister (⭐⭐⭐⭐⭐)
 
 <!--
 **ndouglas/ndouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
