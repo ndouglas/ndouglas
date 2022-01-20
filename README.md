@@ -13,7 +13,7 @@
 - 🦑 ArgoCD
 - ... and too many other things to mention.
 ### 📖 Currently Reading:
-- _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/gp/product/161729831X/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)_ by Christian Clausen
+- _[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)_, by Robert C. Martin
 ### 📓 Currently Working Through:
 - _[How to Prove It: A Structured Approach](https://www.amazon.com/gp/product/0521675995/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)_ by Daniel Velleman
 ### 📕 Recently Finished Reading:
