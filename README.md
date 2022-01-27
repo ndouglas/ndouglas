@@ -13,10 +13,10 @@
 - 🦑 ArgoCD
 - ... and too many other things to mention.
 ### 📖 Currently Reading:
-- _[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)_, by Robert C. Martin
 ### 📓 Currently Working Through:
 - _[How to Prove It: A Structured Approach](https://www.amazon.com/gp/product/0521675995/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)_ by Daniel Velleman
 ### 📕 Recently Finished Reading:
+- _[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)_, by Robert C. Martin (⭐⭐⭐⭐)
 - _[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)_, by Robert C. Martin (⭐⭐⭐⭐⭐)
 - _[How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/gp/product/4871878309/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by George Polya (⭐⭐⭐)
 - _[ReWork](https://www.amazon.com/gp/product/0307463745/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Jason Fried (⭐⭐⭐⭐)
