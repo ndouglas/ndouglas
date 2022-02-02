@@ -4,7 +4,6 @@
 - 👴 Pronouns: He/Him
 ### 🌱 Currently learning:
 - 🦀 Rust
-- 💧 Drupal (six years in and still don't know as much as I probably should)
 - 🔥 Prometheus
 - 📜 Loki
 - ⚛️ React
