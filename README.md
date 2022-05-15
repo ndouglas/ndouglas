@@ -6,7 +6,6 @@
 - 🦀 Rust
 - 🔥 Prometheus
 - 📜 Loki
-- ⚛️ React
 - 🌊 Lagoon
 - ☸️ Kubernetes
 - 🦑 ArgoCD
