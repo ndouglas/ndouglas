@@ -12,7 +12,7 @@
 - 🦑 ArgoCD
 - :atom: React
 - 🃏 Jest
-- TypeScript
+- 🧷 TypeScript
 - ... and too many other things to mention.
 ### 📖 Currently Reading:
 ### 📓 Currently Working Through:
