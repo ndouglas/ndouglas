@@ -11,6 +11,8 @@
 - 🦑 ArgoCD
 - :atom: React
 - 🃏 Jest
+- 🧊 Unity
+- 📊 Kaggle
 - 🧷 TypeScript
 - ... and too many other things to mention.
 ### 📖 Currently Reading:
