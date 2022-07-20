@@ -1,5 +1,5 @@
 ### 👋 Sup
-- 💻 Software/DevOps Engineer, more of a generalist, always looking to get more time to expand my knowledge and strengthen my skillset 😃
+- 💻 Software/DevOps/Test Automation Engineer, more of a generalist, always looking to get more time to expand my knowledge and strengthen my skillset 😃
 - 🏥 Working for [Agile Six](https://agile6.com/) on the [VA.gov Modernization](https://www.va.gov/modernization/) initiative, improving care and accessibility to resources for veterans of the United States military, their families and caregivers, etc.
 - 👴 Pronouns: He/Him
 ### 🌱 Currently learning:
