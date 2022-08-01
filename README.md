@@ -16,6 +16,7 @@
 - 🧷 TypeScript
 - ... and too many other things to mention.
 ### 📖 Currently Reading:
+- _[An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/gp/product/1732265186/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_, by Will Larson
 ### 📓 Currently Working Through:
 - _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/Five-Lines-Code-when-refactor/dp/161729831X)_, by Christian Clausen
 ### 📕 Recently Finished Reading:
