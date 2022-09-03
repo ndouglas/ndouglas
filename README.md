@@ -5,6 +5,7 @@
 ### 🌱 Currently learning:
 - 🦀 Rust
 - 🔥 Prometheus
+- 🪩 Unity
 - 📜 Loki
 - 🌊 Lagoon
 - ☸️ Kubernetes
