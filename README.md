@@ -23,6 +23,7 @@
 - _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/Five-Lines-Code-when-refactor/dp/161729831X)_, by Christian Clausen
 -->
 ### 📕 Recently Finished Reading:
+- _[Crafting Interpreters](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930/ref=sr_1_1?keywords=crafting+interpreters+robert+nystrom&qid=1667486528&qu=eyJxc2MiOiIwLjI3IiwicXNhIjoiMC4xOSIsInFzcCI6IjAuMjMifQ%3D%3D&sprefix=crafting+interpreters%2Caps%2C96&sr=8-1)_, by Robert Nystrom (⭐⭐⭐⭐⭐)
 - _[Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557?keywords=thinking+in+systems&qid=1662214556&sr=8-1)_, by Donella Meadows (⭐⭐⭐⭐⭐)
 - _[An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/gp/product/1732265186/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_, by Will Larson (⭐⭐⭐⭐⭐)
 - _[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)_, by Robert C. Martin (⭐⭐⭐⭐)
