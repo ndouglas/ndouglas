@@ -37,8 +37,8 @@
 - ☁️ working on my [homelab](https://github.com/hellholt/), which never manages to develop quite as fast as my ideas
 - 🏋️‍♂️ ~lifting weights, building strength~ jk lol, apparently I have arthritis
 - 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~
-- 📚 reading fiction (currently _Dhalgren_, by Samuel R. Delaney).
-- 🗡️ working on a [roguelike game in Rust](https://github.com/ndouglas/downdelving) based around artificial intelligence and observability of NPCs
+- 📚 reading fiction (currently _Fire & Blood_, by George R. R. Martin).
+- 🗡️ working on an [open-world text adventure in Rust](https://github.com/ndouglas/hornvale/).
 
 <!-- 
 - 📚 Books to Read, Re-Read, Work Through, Etc:
