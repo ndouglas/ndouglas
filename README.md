@@ -1,6 +1,6 @@
 ### 👋 Sup
 
-- 💻 Software/DevOps Engineer, drifting into QA Architect, more of a generalist, always looking to get more time to expand my knowledge and strengthen my skillset 😃
+- 💻 Software/DevOps Engineer, more of a generalist, always looking to get more time to expand my knowledge and strengthen my skillset 😃
 - 🏥 Working for [Agile Six](https://agile6.com/) on the [VA.gov Modernization](https://www.va.gov/modernization/) initiative, improving care and accessibility to resources for veterans of the United States military, their families and caregivers, etc.
 - 👴 Pronouns: He/Him
 
@@ -47,8 +47,6 @@
 - ☁️ working on my [homelab](https://github.com/hellholt/), which never manages to develop quite as fast as my ideas
 - 🏋️‍♂️ ~lifting weights, building strength~ jk lol, apparently I have arthritis
 - 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~
-
-
-- 📚 reading fiction (currently _Fire & Blood_, by George R. R. Martin).
-- 🗡️ working on an [open-world text adventure in Rust](https://github.com/ndouglas/hornvale/).
+- 📚 reading fiction
+- 🗡️ working on an [open-world text adventure in Rust](https://github.com/ndouglas/hornvale/)
 
