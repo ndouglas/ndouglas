@@ -48,5 +48,5 @@
 - 🏋️‍♂️ ~lifting weights, building strength~ jk lol, apparently I have arthritis
 - 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~
 - 📚 reading fiction
-- 🗡️ working on an [open-world text adventure in Rust](https://github.com/ndouglas/hornvale/)
+- 🗡️ working on an [open-world text adventure in Rust](https://github.com/hornvale/hornvale/)
 
