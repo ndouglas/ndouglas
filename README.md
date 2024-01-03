@@ -50,3 +50,5 @@
 - 📚 reading fiction
 - 🗡️ working on an [open-world text adventure in Rust](https://github.com/hornvale/hornvale/)
 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe">
