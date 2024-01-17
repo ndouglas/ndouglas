@@ -4,26 +4,13 @@
 - 🏥 Working for [Agile Six](https://agile6.com/) on the [VA.gov Modernization](https://www.va.gov/modernization/) initiative, improving care and accessibility to resources for veterans of the United States military, their families and caregivers, etc.
 - 👴 Pronouns: He/Him
 
-### 🌱 Currently learning:
-
-- 🦀 Rust
-- 🔥 Prometheus
-- 🪩 Unity
-- 📜 Loki
-- 🌊 Lagoon
-- ☸️ Kubernetes
-- 🦑 ArgoCD
-- :atom: React
-- 🃏 Jest
-- 🧊 Unity
-- 📊 Kaggle
-- 🧷 TypeScript
-- ... and too many other things to mention.
-
 ### 📖 Currently Reading:
 
 ### 📓 Currently Working Through:
 - _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
+- Certified Kubernetes Administrator exam practice
+- <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> TryHackMe; currently top 4%
+
 <!--
 - _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/Five-Lines-Code-when-refactor/dp/161729831X)_, by Christian Clausen
 -->
@@ -44,9 +31,8 @@
 
 - 🧱 building LEGO stuff with my [kid](https://github.com/JomoDuggins)
 - 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
-- ☁️ working on my [homelab](https://github.com/hellholt/), which never manages to develop quite as fast as my ideas
-- 🏋️‍♂️ ~lifting weights, building strength~ jk lol, apparently I have arthritis
-- 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~
+- 🏋️‍♂️ lifting weights, building strength
+- 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~ jk lol, apparently I have arthritis
 - 📚 reading fiction
+- ☁️ working on my [homelab](https://github.com/hellholt/), which never manages to develop quite as fast as my ideas
 - 🗡️ working on an [open-world text adventure in Rust](https://github.com/hornvale/hornvale/)
-
