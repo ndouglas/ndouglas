@@ -9,7 +9,7 @@
 ### 📓 Currently Working Through:
 - _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
 - Certified Kubernetes Administrator exam practice
-- <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> TryHackMe; currently top 4%
+- <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> currently top 4% on [TryHackMe](https://tryhackme.com/)
 
 <!--
 - _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/Five-Lines-Code-when-refactor/dp/161729831X)_, by Christian Clausen
