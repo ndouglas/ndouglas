@@ -7,6 +7,7 @@
 ### 📖 Currently Reading:
 
 ### 📓 Currently Working Through:
+
 - _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
 - Certified Kubernetes Administrator exam practice
 - <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> currently top 4% on [TryHackMe](https://tryhackme.com/)
@@ -26,6 +27,12 @@
 - _[ReWork](https://www.amazon.com/gp/product/0307463745/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Jason Fried (⭐⭐⭐⭐)
 - _[Practices of an Agile Developer](https://www.amazon.com/gp/product/097451408X/ref=ppx_yo_dt_b_search_asin_title)_ by Venkat Subramaniam and Andy Hunt (⭐⭐⭐⭐⭐)
 - _[Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)_ by Tom DeMarco and Timothy Lister (⭐⭐⭐⭐⭐)
+
+### ⚒️ Projects
+
+_These are often sitting idle for months at a time. There's only one of me._
+
+- 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi Kubernetes cluster
 
 ### 🎲 Free Time
 
