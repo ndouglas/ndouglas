@@ -36,7 +36,7 @@
 
 ### ⚒️ Projects
 
-_These are often embryonic and/or sitting idle for months at a time. There's only one of me._
+_These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition than time._
 
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi Kubernetes cluster
 - 🗡️ **[Hornvale](https://github.com/hornvale/hornvale/)**: An open-world procedurally generated text adventure
