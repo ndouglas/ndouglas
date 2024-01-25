@@ -12,6 +12,12 @@
 - _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
 - Certified Kubernetes Administrator exam practice
 
+### 🥇 Current Goals:
+
+- 😠 Certified Kubernetes Administrator
+- 🤔 Certified Kubernetes Application Developer
+- 🤔 Certified Kubernetes Security Specialist
+
 <!--
 - _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/Five-Lines-Code-when-refactor/dp/161729831X)_, by Christian Clausen
 -->
