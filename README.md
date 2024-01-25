@@ -11,7 +11,6 @@
 
 - _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
 - Certified Kubernetes Administrator exam practice
-- <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> currently top 4% on [TryHackMe](https://tryhackme.com/)
 
 <!--
 - _[Five Lines of Code: How and When to Refactor](https://www.amazon.com/Five-Lines-Code-when-refactor/dp/161729831X)_, by Christian Clausen
@@ -50,3 +49,4 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🏋️‍♂️ lifting weights, building strength
 - 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~ jk lol, apparently I have arthritis
 - 📚 reading fiction (my favorite books are George R. R. Martin's _A Song of Ice and Fire_, if you couldn't tell from my project names)
+- <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> currently top 4% on [TryHackMe](https://tryhackme.com/)
