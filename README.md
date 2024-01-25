@@ -30,9 +30,17 @@
 
 ### ⚒️ Projects
 
-_These are often sitting idle for months at a time. There's only one of me._
+_These are often embryonic and/or sitting idle for months at a time. There's only one of me._
 
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi Kubernetes cluster
+- 🗡️ **[Hornvale](https://github.com/hornvale/hornvale/)**: An open-world procedurally generated text adventure
+- 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer
+- 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My website and static site generator
+- 🛡️ **[Downdelving](https://github.com/ndouglas/downdelving/)**: An experimental roguelike intended to explore complex actor AI
+- 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics
+- 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game I started writing to learn Prolog. Didn't get very far.
+- 🧊 **[Unity Hashing Grid](https://github.com/ndouglas/unity-hashing-grid)**: Fun little visual toy in Unity
+- 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation
 
 ### 🎲 Free Time
 
@@ -40,6 +48,4 @@ _These are often sitting idle for months at a time. There's only one of me._
 - 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
 - 🏋️‍♂️ lifting weights, building strength
 - 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~ jk lol, apparently I have arthritis
-- 📚 reading fiction
-- ☁️ working on my [homelab](https://github.com/hellholt/), which never manages to develop quite as fast as my ideas
-- 🗡️ working on an [open-world text adventure in Rust](https://github.com/hornvale/hornvale/)
+- 📚 reading fiction (my favorite books are George R. R. Martin's _A Song of Ice and Fire_, if you couldn't tell from my project names)
