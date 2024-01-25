@@ -5,6 +5,7 @@
 - 👴 Pronouns: He/Him
 
 ### 📖 Currently Reading:
+- _[The Eternal Frontier](https://www.amazon.com/s?k=the+eternal+frontier+by+tim+flannery&hvadid=580750564256&hvdev=c&hvlocphy=9015350&hvnetw=g&hvqmt=e&hvrand=16220829658562028287&hvtargid=kwd-883805941806&hydadcr=22597_13493304&tag=googhydr-20&ref=pd_sl_40pt2itev8_e)_, by Tim Flannery
 
 ### 📓 Currently Working Through:
 
