@@ -42,7 +42,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi Kubernetes cluster
 - 🗡️ **[Hornvale](https://github.com/hornvale/hornvale/)**: An open-world procedurally generated text adventure
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer
-- 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My website (https://darkdell.net/) and static site generator
+- 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator
 - 🛡️ **[Downdelving](https://github.com/ndouglas/downdelving/)**: An experimental roguelike intended to explore complex actor AI
 - 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics
 - 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game I started writing to learn Prolog. Didn't get very far.
