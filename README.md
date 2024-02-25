@@ -48,6 +48,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game I started writing to learn Prolog. Didn't get very far.
 - 🧊 **[Unity Hashing Grid](https://github.com/ndouglas/unity-hashing-grid)**: Fun little visual toy in Unity
 - 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation
+- 🕴️**[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting in LaTeX.
 
 ### 🎲 Free Time
 
