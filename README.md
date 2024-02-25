@@ -45,7 +45,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator
 - 🛡️ **[Downdelving](https://github.com/ndouglas/downdelving/)**: An experimental roguelike intended to explore complex actor AI
 - 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics
-- 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game I started writing to learn Prolog. Didn't get very far.
+- 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game I started writing to learn Prolog
 - 🧊 **[Unity Hashing Grid](https://github.com/ndouglas/unity-hashing-grid)**: Fun little visual toy in Unity
 - 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation
 - 🕴️ **[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting in LaTeX.
