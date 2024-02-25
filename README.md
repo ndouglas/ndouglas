@@ -54,7 +54,18 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 
 - 🧱 building LEGO stuff with my [kid](https://github.com/JomoDuggins)
 - 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
-- 🏋️‍♂️ lifting weights, building strength
-- 🏃‍♂️ ~getting back into running, which currently is mostly physical therapy for my knees~ jk lol, apparently I have arthritis
+- 💪 exercising:
+  - 🏋️‍♂️ lifting weights
+  - 🚴 cycling
+  - 🚣 rowing
+- 👨‍🍳 cooking:
+  - 🥖 baking
+  - 🧀 cheesemaking
+  - 🍝 general
+- 🌵 not overwatering my succulents
+- 🎥 [watching movies](https://letterboxd.com/supertempt768/)
+- 🎼 [listening to music](https://rateyourmusic.com/~NathanDouglas)
 - 📚 reading fiction (my favorite books are George R. R. Martin's _A Song of Ice and Fire_, if you couldn't tell from my project names)
+- 🎲 not playing any of my ridiculous backlog of board games
+- 🎮 not playing anything in my Steam library
 - 🤖 <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> currently top 3% on [TryHackMe](https://tryhackme.com/)
