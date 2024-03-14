@@ -24,7 +24,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW (https://pnk.darkdell.net) (Python, Terraform)
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi Kubernetes cluster (Kubernetes, Ansible, Terraform, Bash)
-- 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental roguelike intended to explore complex actor AI (Dart, Go, PostgreSQL, Kubernetes)
+- 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental roguelike intended to explore complex actor AI (React or Dart, Go or Rust)
 - 🗡️ **[Hornvale](https://github.com/hornvale/hornvale/)**: An open-world procedurally generated text adventure (Rust)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
