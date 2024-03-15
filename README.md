@@ -22,6 +22,7 @@
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition than time._
 
+- 😶‍🌫️ **[Mistwood](https://github.com/ndouglas/mistwood/)**: A framework for roguelikes, MUDs, and similar games combining Actors, ECS, Rules, and embedded Lua scripting (Rust)
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW (https://pnk.darkdell.net) (Python, Terraform)
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi Kubernetes cluster (Kubernetes, Ansible, Terraform, Bash)
 - 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental roguelike intended to explore complex actor AI (React or Dart, Go or Rust)
