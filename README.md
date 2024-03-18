@@ -34,6 +34,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🧊 **[Unity Hashing Grid](https://github.com/ndouglas/unity-hashing-grid)**: Fun little visual toy in Unity (C#)
 - 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation (Rust)
 - 🕴️ **[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting (LaTeX)
+- 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A rules engine that I started writing (Rust)
 
 ### 📕 Recently Finished Reading:
 
