@@ -32,7 +32,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Dart-Frontend](https://github.com/downdelving/dart-frontend)**: Forthcoming frontend (Dart)
   - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
   - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
-- 🗡️ **[Hornvale](https://github.com/hornvale/hornvale/)**: Local command-line game using Mistwood (Rust)
+- 🗡️ **[Hornvale](https://github.com/hornvale/)**: Local command-line game using my Mistwood library (Rust)
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
