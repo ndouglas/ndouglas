@@ -22,7 +22,6 @@
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
 
-- 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi Kubernetes cluster projects
   - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
   - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
@@ -34,6 +33,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
   - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
 - 🗡️ **[Hornvale](https://github.com/hornvale/hornvale/)**: Local command-line game using Mistwood (Rust)
+- 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
 - 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics (Rust)
