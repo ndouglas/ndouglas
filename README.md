@@ -30,10 +30,10 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
-- 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game experiment (Prolog)
 - 🧊 **[Unity Hashing Grid](https://github.com/ndouglas/unity-hashing-grid)**: Fun little visual toy in Unity (C#)
 - 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation (Rust)
 - 🕴️ **[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting (LaTeX)
+- 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game experiment (Prolog)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
 - 😶‍🌫️ **[Mistwood](https://github.com/ndouglas/mistwood/)**: A library for roguelikes, MUDs, and similar games combining Actors, ECS, Rules, and embedded Lua scripting (Rust)
 - 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental web-based MUD using my Mistwood library
