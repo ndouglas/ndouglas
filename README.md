@@ -30,7 +30,6 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
-- 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics (Rust)
 - 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game experiment (Prolog)
 - 🧊 **[Unity Hashing Grid](https://github.com/ndouglas/unity-hashing-grid)**: Fun little visual toy in Unity (C#)
 - 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation (Rust)
@@ -43,6 +42,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
   - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
 - 🗡️ **[Hornvale](https://github.com/hornvale/)**: Local command-line game using my Mistwood library (Rust)
+- 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics (Rust)
 
 ### 📕 Recently Finished Reading:
 
