@@ -26,13 +26,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
   - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
   - **[Kubernetes, the _Excruciating_ Way](https://github.com/goldentooth/kubernetes-the-excruciating-way)**: Journaling/documenting the process ([Link](https://goldentooth.github.io/kubernetes-the-excruciating-way/)) (Markdown)
-- 😶‍🌫️ **[Mistwood](https://github.com/ndouglas/mistwood/)**: A library for roguelikes, MUDs, and similar games combining Actors, ECS, Rules, and embedded Lua scripting (Rust)
-- 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental web-based MUD using my Mistwood library
-  - **[React-Frontend](https://github.com/downdelving/react-frontend)** Frontend in verrrrrry early stages (React)
-  - **[Dart-Frontend](https://github.com/downdelving/dart-frontend)**: Forthcoming frontend (Dart)
-  - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
-  - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
-- 🗡️ **[Hornvale](https://github.com/hornvale/)**: Local command-line game using my Mistwood library (Rust)
+- 🧂 **[SaltShore](https://github.com/saltshore/)**: A new text adventure I'm working on, trying to use the stupidest design possible (Rust)
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
@@ -42,6 +36,13 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation (Rust)
 - 🕴️ **[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting (LaTeX)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
+- 😶‍🌫️ **[Mistwood](https://github.com/ndouglas/mistwood/)**: A library for roguelikes, MUDs, and similar games combining Actors, ECS, Rules, and embedded Lua scripting (Rust)
+- 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental web-based MUD using my Mistwood library
+  - **[React-Frontend](https://github.com/downdelving/react-frontend)** Frontend in verrrrrry early stages (React)
+  - **[Dart-Frontend](https://github.com/downdelving/dart-frontend)**: Forthcoming frontend (Dart)
+  - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
+  - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
+- 🗡️ **[Hornvale](https://github.com/hornvale/)**: Local command-line game using my Mistwood library (Rust)
 
 ### 📕 Recently Finished Reading:
 
