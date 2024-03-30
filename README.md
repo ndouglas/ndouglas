@@ -27,6 +27,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
   - **[Kubernetes, the _Excruciating_ Way](https://github.com/goldentooth/kubernetes-the-excruciating-way)**: Journaling/documenting the process ([Link](https://goldentooth.github.io/kubernetes-the-excruciating-way/)) (Markdown)
 - 🧂 **[SaltShore](https://github.com/saltshore/)**: A new text adventure I'm working on, trying to use the stupidest design possible (Rust)
+- 🗡️ **[Hornvale](https://github.com/hornvale/)**: An experimental open-world text adventure (Rust)
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
@@ -41,7 +42,6 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Dart-Frontend](https://github.com/downdelving/dart-frontend)**: Forthcoming frontend (Dart)
   - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
   - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
-- 🗡️ **[Hornvale](https://github.com/hornvale/)**: Local command-line game using my Mistwood library (Rust)
 - 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics (Rust)
 
 ### 📕 Recently Finished Reading:
