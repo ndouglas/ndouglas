@@ -27,7 +27,6 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
   - **[Kubernetes, the _Excruciating_ Way](https://github.com/goldentooth/kubernetes-the-excruciating-way)**: Journaling/documenting the process ([Link](https://goldentooth.github.io/kubernetes-the-excruciating-way/)) (Markdown)
 - 🧂 **[SaltShore](https://github.com/saltshore/)**: A new text adventure I'm working on, trying to use the stupidest design possible (Rust)
-- 🗡️ **[Hornvale](https://github.com/hornvale/)**: An experimental open-world text adventure (Rust)
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
 - 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
@@ -36,6 +35,9 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🕴️ **[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting (LaTeX)
 - 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game experiment (Prolog)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
+
+<!--
+- 🗡️ **[Hornvale](https://github.com/hornvale/)**: An experimental open-world text adventure (Rust)
 - 😶‍🌫️ **[Mistwood](https://github.com/ndouglas/mistwood/)**: A library for roguelikes, MUDs, and similar games combining Actors, ECS, Rules, and embedded Lua scripting (Rust)
 - 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental web-based MUD using my Mistwood library
   - **[React-Frontend](https://github.com/downdelving/react-frontend)** Frontend in verrrrrry early stages (React)
@@ -43,6 +45,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
   - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
 - 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics (Rust)
+-->
 
 ### 📕 Recently Finished Reading:
 
