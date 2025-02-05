@@ -5,11 +5,12 @@
 - 👴 Pronouns: He/Him
 
 ### 📖 Currently Reading:
+- _[The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)_, by Richard W. Hamming
 - _[The Eternal Frontier](https://www.amazon.com/s?k=the+eternal+frontier+by+tim+flannery&hvadid=580750564256&hvdev=c&hvlocphy=9015350&hvnetw=g&hvqmt=e&hvrand=16220829658562028287&hvtargid=kwd-883805941806&hydadcr=22597_13493304&tag=googhydr-20&ref=pd_sl_40pt2itev8_e)_, by Tim Flannery
 
 ### 📓 Currently Working Through:
 
-- _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
+_[99 Bottles of OOP](https://sandimetz.com/99bottles)_, by Sandi Metz
 - Certified Kubernetes Administrator exam practice
 
 ### 🥇 Current Goals:
@@ -38,6 +39,10 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
 
 <!--
+### On Hold...
+- _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
+
+
 - 🧂 **[SaltShore](https://github.com/saltshore/)**: A new text adventure I'm working on, trying to use the stupidest design possible (Rust)
 - 😶‍🌫️ **[Mistwood](https://github.com/ndouglas/mistwood/)**: A library for roguelikes, MUDs, and similar games combining Actors, ECS, Rules, and embedded Lua scripting (Rust)
 - 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental web-based MUD using my Mistwood library
