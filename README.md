@@ -7,11 +7,11 @@
 - 👴 Pronouns: He/Him
 
 ### 📖 Currently Reading:
-- _[The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)_, by Richard W. Hamming
+- _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
 
 ### 📓 Currently Working Through:
 
-- _[99 Bottles of OOP](https://sandimetz.com/99bottles)_, by Sandi Metz
+- _99 Bottles of OOP_, by Sandi Metz
 - Certified Kubernetes Administrator exam practice
 
 ### 🥇 Current Goals:
