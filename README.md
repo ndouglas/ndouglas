@@ -1,12 +1,13 @@
 ### 👋 Sup
 
-- 💻 Software/DevOps Engineer, more of a generalist, always looking to get more time to expand my knowledge and strengthen my skillset 😃
-- 🏥 Working for [Agile Six](https://agile6.com/) on the [VA.gov Modernization](https://www.va.gov/modernization/) initiative, improving care and accessibility to resources for veterans of the United States military, their families and caregivers, etc.
+- 💻 Software/DevOps/Platform/Site Reliability Engineer
+- 🏥 Working for [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
+  - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (2020-2024)
+  - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (2024-present)
 - 👴 Pronouns: He/Him
 
 ### 📖 Currently Reading:
 - _[The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)_, by Richard W. Hamming
-- _[The Eternal Frontier](https://www.amazon.com/s?k=the+eternal+frontier+by+tim+flannery&hvadid=580750564256&hvdev=c&hvlocphy=9015350&hvnetw=g&hvqmt=e&hvrand=16220829658562028287&hvtargid=kwd-883805941806&hydadcr=22597_13493304&tag=googhydr-20&ref=pd_sl_40pt2itev8_e)_, by Tim Flannery
 
 ### 📓 Currently Working Through:
 
@@ -31,42 +32,26 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 💻 **[Blackpool](https://github.com/ndouglas/blackpool/)**: An implementation of the Lox programming language and virtual machine (Rust)
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
-- 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and static site generator (Rust)
+- 📜 **[Darkdell](https://github.com/ndouglas/darkdell/)**: My blog (https://darkdell.net/) and verrrrry basic static site generator (Rust)
 - 🧊 **[Unity Hashing Grid](https://github.com/ndouglas/unity-hashing-grid)**: Fun little visual toy in Unity (C#)
 - 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation (Rust)
 - 🕴️ **[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting (LaTeX)
 - 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game experiment (Prolog)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
 
-<!--
-### On Hold...
-- _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
-
-
-- 🧂 **[SaltShore](https://github.com/saltshore/)**: A new text adventure I'm working on, trying to use the stupidest design possible (Rust)
-- 😶‍🌫️ **[Mistwood](https://github.com/ndouglas/mistwood/)**: A library for roguelikes, MUDs, and similar games combining Actors, ECS, Rules, and embedded Lua scripting (Rust)
-- 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental web-based MUD using my Mistwood library
-  - **[React-Frontend](https://github.com/downdelving/react-frontend)** Frontend in verrrrrry early stages (React)
-  - **[Dart-Frontend](https://github.com/downdelving/dart-frontend)**: Forthcoming frontend (Dart)
-  - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
-  - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
-- 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics (Rust)
--->
-
 ### 📕 Recently Finished Reading:
 
-- _[Crafting Interpreters](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930/ref=sr_1_1?keywords=crafting+interpreters+robert+nystrom&qid=1667486528&qu=eyJxc2MiOiIwLjI3IiwicXNhIjoiMC4xOSIsInFzcCI6IjAuMjMifQ%3D%3D&sprefix=crafting+interpreters%2Caps%2C96&sr=8-1)_, by Robert Nystrom (⭐⭐⭐⭐⭐)
-- _[Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557?keywords=thinking+in+systems&qid=1662214556&sr=8-1)_, by Donella Meadows (⭐⭐⭐⭐⭐)
-- _[An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/gp/product/1732265186/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)_, by Will Larson (⭐⭐⭐⭐⭐)
-- _[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)_, by Robert C. Martin (⭐⭐⭐⭐)
-- _[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)_, by Robert C. Martin (⭐⭐⭐⭐⭐)
-- _[How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/gp/product/4871878309/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)_ by George Polya (⭐⭐⭐½)
-- _[ReWork](https://www.amazon.com/gp/product/0307463745/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)_ by Jason Fried (⭐⭐⭐⭐)
-- _[Practices of an Agile Developer](https://www.amazon.com/gp/product/097451408X/ref=ppx_yo_dt_b_search_asin_title)_ by Venkat Subramaniam and Andy Hunt (⭐⭐⭐⭐⭐)
-- _[Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)_ by Tom DeMarco and Timothy Lister (⭐⭐⭐⭐⭐)
+- _Sapiens: A Brief History of Humankind_, by Yuval Noah Harari (⭐⭐⭐⭐⭐)
+- _Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better_, by Jennifer Pahlka (⭐⭐⭐⭐⭐)
+- _The Eternal Frontier_, by Tim Flannery (⭐⭐⭐⭐⭐)
+- _Crafting Interpreters_, by Robert Nystrom (⭐⭐⭐⭐⭐)
+- _Thinking in Systems: A Primer_, by Donella Meadows (⭐⭐⭐⭐⭐)
+- _An Elegant Puzzle: Systems of Engineering Management_, by Will Larson (⭐⭐⭐⭐⭐)
 
 ### 🎲 Free Time
 
+- 🖌️ painting miniatures
+- 🖨️ printing miniatures faster than I can paint them
 - 🧱 building LEGO stuff with my [kid](https://github.com/JomoDuggins)
 - 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
 - 💪 exercising:
@@ -84,3 +69,18 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🎲 not playing any of my ridiculous backlog of board games
 - 🎮 not playing anything in my Steam library
 - 🤖 <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> currently top 3% on [TryHackMe](https://tryhackme.com/)
+
+<!--
+### On Hold...
+- _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
+
+
+- 🧂 **[SaltShore](https://github.com/saltshore/)**: A new text adventure I'm working on, trying to use the stupidest design possible (Rust)
+- 😶‍🌫️ **[Mistwood](https://github.com/ndouglas/mistwood/)**: A library for roguelikes, MUDs, and similar games combining Actors, ECS, Rules, and embedded Lua scripting (Rust)
+- 🛡️ **[Downdelving](https://github.com/downdelving/)**: An experimental web-based MUD using my Mistwood library
+  - **[React-Frontend](https://github.com/downdelving/react-frontend)** Frontend in verrrrrry early stages (React)
+  - **[Dart-Frontend](https://github.com/downdelving/dart-frontend)**: Forthcoming frontend (Dart)
+  - **[Go-Backend](https://github.com/downdelving/go-backend)**: Backend in very early stages, using standard library and FFI bindings (Go)
+  - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
+- 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics (Rust)
+-->
