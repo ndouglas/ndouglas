@@ -10,7 +10,7 @@
 
 ### 📓 Currently Working Through:
 
-_[99 Bottles of OOP](https://sandimetz.com/99bottles)_, by Sandi Metz
+- _[99 Bottles of OOP](https://sandimetz.com/99bottles)_, by Sandi Metz
 - Certified Kubernetes Administrator exam practice
 
 ### 🥇 Current Goals:
