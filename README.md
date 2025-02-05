@@ -12,13 +12,10 @@
 ### 📓 Currently Working Through:
 
 - _99 Bottles of OOP_, by Sandi Metz
-- Certified Kubernetes Administrator exam practice
 
 ### 🥇 Current Goals:
 
 - Certified Kubernetes Administrator
-- Certified Kubernetes Application Developer
-- Certified Kubernetes Security Specialist
 
 ### ⚒️ Projects
 
@@ -36,7 +33,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🧊 **[Unity Hashing Grid](https://github.com/ndouglas/unity-hashing-grid)**: Fun little visual toy in Unity (C#)
 - 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation (Rust)
 - 🕴️ **[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting (LaTeX)
-- 🪦 **[Runestone](https://github.com/ndouglas/)**: A text adventure game experiment (Prolog)
+- 🪦 **[Runestone](https://github.com/ndouglas/runestone)**: A text adventure game experiment (Prolog)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
 
 ### 📕 Recently Finished Reading:
