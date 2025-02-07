@@ -11,8 +11,6 @@
 
 ### 📓 Currently Working Through:
 
-- _99 Bottles of OOP_, by Sandi Metz
-
 ### 🥇 Current Goals:
 
 - Certified Kubernetes Administrator
@@ -38,6 +36,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 
 ### 📕 Recently Finished Reading:
 
+- _99 Bottles of OOP_, by Sandi Metz (⭐⭐⭐⭐⭐)
 - _Sapiens: A Brief History of Humankind_, by Yuval Noah Harari (⭐⭐⭐⭐⭐)
 - _Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better_, by Jennifer Pahlka (⭐⭐⭐⭐⭐)
 - _The Eternal Frontier_, by Tim Flannery (⭐⭐⭐⭐⭐)
