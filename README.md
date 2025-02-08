@@ -8,6 +8,7 @@
 
 ### 📖 Currently Reading:
 - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
+- _A Philosophy of Software Design_, by John Ousterhout
 
 ### 📓 Currently Working Through:
 
