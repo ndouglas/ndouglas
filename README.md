@@ -7,9 +7,9 @@
 
 ### 📖 Currently Reading:
 - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
-- _A Philosophy of Software Design_, by John Ousterhout
 
 ### 📓 Currently Working Through:
+- _Five Lines of Code_, by Christian Clausen
 
 ### 🥇 Current Goals:
 
@@ -36,6 +36,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 
 ### 📕 Recently Finished Reading:
 
+- _A Philosophy of Software Design_, by John Ousterhout (⭐⭐⭐)
 - _99 Bottles of OOP_, by Sandi Metz (⭐⭐⭐⭐⭐)
 - _Sapiens: A Brief History of Humankind_, by Yuval Noah Harari (⭐⭐⭐⭐⭐)
 - _Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better_, by Jennifer Pahlka (⭐⭐⭐⭐⭐)
