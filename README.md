@@ -6,6 +6,7 @@
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (2024-present)
 
 ### 📖 Currently Reading:
+- _Man's Search for Meaning_, by Victor E. Frankl
 - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
 
 ### 📓 Currently Working Through:
