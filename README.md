@@ -6,7 +6,6 @@
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (2024-present)
 
 ### 📖 Currently Reading:
-- _Man's Search for Meaning_, by Victor E. Frankl
 - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
 
 ### 📓 Currently Working Through:
@@ -37,6 +36,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 
 ### 📕 Recently Finished Reading:
 
+- _Man's Search for Meaning_, by Victor E. Frankl (⭐⭐⭐⭐⭐)
 - _A Philosophy of Software Design_, by John Ousterhout (⭐⭐⭐)
 - _99 Bottles of OOP_, by Sandi Metz (⭐⭐⭐⭐⭐)
 - _Sapiens: A Brief History of Humankind_, by Yuval Noah Harari (⭐⭐⭐⭐⭐)
