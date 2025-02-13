@@ -82,3 +82,6 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - **[Rust-Backend](https://github.com/downdelving/rust-backend)**: Backend using Actix-Web (Rust)
 - 🥷 **[Hammerdown](https://github.com/ndouglas/hammerdown/)**: An experimental roguelike intended to explore stealth mechanics (Rust)
 -->
+
+![ih7fej7bj9821](https://github.com/user-attachments/assets/6784e08b-88b1-4760-a856-ed1d6e17c0df)
+
