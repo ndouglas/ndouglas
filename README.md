@@ -9,7 +9,7 @@
 - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
 
 ### 📓 Currently Working Through:
-- _Five Lines of Code_, by Christian Clausen
+- _Build an Orchestrator in Go (From Scratch)_, by Tim Boring
 
 ### 🥇 Current Goals:
 
@@ -19,6 +19,7 @@
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
 
+- 🪨 **[Oldstones](https://github.com/ndouglas/oldstones)**: An implementation of Tim Boring's simple orchestrator (Go)
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi Kubernetes cluster projects
   - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
   - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
