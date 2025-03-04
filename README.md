@@ -52,7 +52,6 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🖌️ painting miniatures
 - 🖨️ printing miniatures faster than I can paint them
 - 🧱 building LEGO stuff with my [kid](https://github.com/JomoDuggins)
-- 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
 - 💪 exercising:
   - 🏋️‍♂️ lifting weights
   - 🚴 cycling
@@ -73,6 +72,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 <!--
 ### On Hold...
 - _[The Ray Tracer Challenge](http://raytracerchallenge.com)_, by Jamis Buck
+- 🎸 playing various musical instruments, chiefly bass guitar, drums, accordion, but the set expands and contracts pretty frequently
 
 - 🗡️ **[Hornvale](https://github.com/hornvale/)**: An experimental open-world roguelike/text adventure (Rust)
 - 🧂 **[SaltShore](https://github.com/saltshore/)**: A new text adventure I'm working on, trying to use the stupidest design possible (Rust)
