@@ -63,7 +63,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
   - 🍝 general
 - 🌵 not overwatering my succulents
 - 🎥 [watching movies](https://letterboxd.com/supertempt768/)
-- 📺 watching a show (currently _Star Trek_, the original series, because I could really use some of that New Deal-era optimism ATM NGL LOL)
+- 📺 watching a show (currently _Star Trek_, the original series, because I could really use some of that Great Society-era optimism ATM NGL LOL)
 - 🎼 [listening to music](https://rateyourmusic.com/~NathanDouglas)
 - 📚 reading fiction (my favorite books are George R. R. Martin's _A Song of Ice and Fire_, if you couldn't tell from my project names)
 - 🎲 not playing any of my ridiculous backlog of board games
