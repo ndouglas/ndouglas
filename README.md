@@ -2,8 +2,8 @@
 
 - 💻 Software/DevOps/Platform/Site Reliability Engineer
 - 🏥 Working for [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
-  - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (2020-2024)
-  - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (2024-present)
+  - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (10/2020-02/2024)
+  - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
 - 👨 He/Him
 
 ### 📖 Currently Reading:
