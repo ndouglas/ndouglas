@@ -35,6 +35,15 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🪦 **[Runestone](https://github.com/ndouglas/runestone)**: A text adventure game experiment (Prolog)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
 
+### 🔮 Potential Future Projects:
+
+_In case I get uploaded into the Singularity and have an inexhaustible amount of free time_
+
+- Build a neural network from scratch
+- Build an LLM from scratch
+- Build a tower defense game based around system design principles
+- Build a deep-learning agent that can learn how to play and beat _Zork_
+
 ### 📕 Recently Finished Reading:
 
 - _Man's Search for Meaning_, by Victor E. Frankl (⭐⭐⭐⭐⭐)
