@@ -7,6 +7,7 @@
 - 👨 He/Him
 
 ### 📖 Currently Reading:
+- _Platform Engineering_, by Camille Fournier and Ian Nowland
 - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
 
 ### 📓 Currently Working Through:
