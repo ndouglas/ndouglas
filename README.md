@@ -21,7 +21,6 @@
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
 
-- 🪨 **[Oldstones](https://github.com/ndouglas/oldstones)**: An implementation of Tim Boring's simple orchestrator (Go)
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi cluster projects (Kubernetes, Slurm, Nomad, etc)
   - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
   - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
@@ -35,6 +34,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🕴️ **[Resume](https://github.com/ndouglas/resume)**: My résumé, which I'm rewriting (LaTeX)
 - 🪦 **[Runestone](https://github.com/ndouglas/runestone)**: A text adventure game experiment (Prolog)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
+- 🪨 **[Oldstones](https://github.com/ndouglas/oldstones)**: An implementation of Tim Boring's simple orchestrator (Go)
 
 ### 🔮 Potential Future Projects:
 
