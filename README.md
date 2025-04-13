@@ -24,7 +24,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi cluster projects (Kubernetes, Slurm, Nomad, etc)
   - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
   - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
-  - **[Blog](https://github.com/goldentooth/blog)**: Journaling/documenting the process ([Link](https://goldentooth.net/)) (Markdown)
+  - **[Clog (Changelog)](https://github.com/goldentooth/clog)**: Journaling/documenting the process ([Link](https://clog.goldentooth.net/)) (Markdown)
 - 💻 **[Blackpool](https://github.com/ndouglas/blackpool/)**: An implementation of the Lox programming language and virtual machine (Rust)
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
