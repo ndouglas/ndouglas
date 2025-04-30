@@ -7,7 +7,7 @@
 - 👨 He/Him
 
 ### 📖 Currently Reading:
-- _Platform Engineering_, by Camille Fournier and Ian Nowland
+- _Introducing MLOps_, by Mark Treveil et al.
 - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
 
 ### 📓 Currently Working Through:
@@ -49,6 +49,7 @@ _In case I get uploaded into the Singularity and have an inexhaustible amount of
 
 ### 📕 Recently Finished Reading:
 
+- _Platform Engineering_, by Camille Fournier and Ian Nowland (⭐⭐⭐⭐⭐)
 - _Man's Search for Meaning_, by Victor E. Frankl (⭐⭐⭐⭐⭐)
 - _A Philosophy of Software Design_, by John Ousterhout (⭐⭐⭐)
 - _99 Bottles of OOP_, by Sandi Metz (⭐⭐⭐⭐⭐)
