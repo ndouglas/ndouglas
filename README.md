@@ -6,22 +6,33 @@
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
 - 👨 He/Him
 
-### 📖 Currently Reading:
+### 📖 Currently Reading
 - _Introducing MLOps_, by Mark Treveil et al.
 - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
 
-### 📓 Currently Working Through:
+### 📓 Currently Working Through
 - _Build an Orchestrator in Go (From Scratch)_, by Tim Boring
 
-### 🥇 Current Goals:
+### 🥇 Short-Term Goals (2025)
 
 - Certified Kubernetes Administrator
+- Move into MLOps/ML adjacent engineering position
+- Relearn basic French
+
+### ⏳ Medium-Term Goals (2026-2028)
+
+- Move into HPC or Scientific Computing
+- Move to France 🇫🇷
+
+### ⌛️ Long-Term Goals (2029+)
+
+- Possibly get PhD in math, CS, systems theory, or complexity science
+- Move into CS research
 
 ### ⚒️ Projects
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
 
-- **[Distillation PoC](https://github.com/ndouglas/distillation-poc/)**: An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 - 🗣️ **[Whispers](https://github.com/ndouglas/whispers/)**: A self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus (Rust)
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi cluster projects (Kubernetes, Slurm, Nomad, etc)
   - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
@@ -37,6 +48,12 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🪦 **[Runestone](https://github.com/ndouglas/runestone)**: A text adventure game experiment (Prolog)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
 - 🪨 **[Oldstones](https://github.com/ndouglas/oldstones)**: An implementation of Tim Boring's simple orchestrator (Go)
+
+### 🧑🏻‍🔬 Research
+
+_I don't have a scientific background or training, but I'm trying to read as many papers as possible to catch up. As noted above, I'm weighing getting a PhD, so I'm kinda practicing by trying to engage more with the literature._
+
+- **[Distillation PoC](https://github.com/ndouglas/distillation-poc/)**: An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 
 ### 🔮 Potential Future Projects:
 
