@@ -21,6 +21,7 @@
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
 
+- **[Distillation PoC](https://github.com/ndouglas/distillation-poc/)**: An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 - 🗣️ **[Whispers](https://github.com/ndouglas/whispers/)**: A self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus (Rust)
 - 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi cluster projects (Kubernetes, Slurm, Nomad, etc)
   - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
