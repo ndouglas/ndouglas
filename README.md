@@ -1,7 +1,7 @@
 ### 👋 Sup
 
 - 💻 Software/DevOps/Platform/Site Reliability Engineer with ~13 years of experience
-- 🧠 Looking to move into MLOps/HPC/ML/DL, perhaps get my PhD in math (perhaps in the area of topology/manifolds, CS (deep learning), or complexity science)
+- 🧠 Looking to move into MLOps/HPC/ML/DL, perhaps get my PhD in math (perhaps in the area of topology/manifolds), CS (deep learning), or complexity science
 - 🏥 Working for [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
   - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (10/2020-02/2024)
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
