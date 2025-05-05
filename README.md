@@ -1,10 +1,18 @@
 ### 👋 Sup
 
-- 💻 Software/DevOps/Platform/Site Reliability Engineer
+- 💻 Software/DevOps/Platform/Site Reliability Engineer with ~13 years of experience
+- 🧠 Looking to move into MLOps/HPC/ML/DL, perhaps get my PhD in math (perhaps in the area of topology/manifolds, CS (deep learning), or complexity science)
 - 🏥 Working for [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
   - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (10/2020-02/2024)
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
 - 👨 He/Him
+
+### Organizations
+I have a few organizations for specific "themes" of projects that I play with:
+
+- <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/): More personal, "about me" sort of things, or intended for personal use but left open-source for use by others.
+- <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/): Professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer.
+- <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/): Related to my [Pi Bramble](https://goldentooth.net/), a sort of chaos zoo.
 
 ### 📖 Currently Reading
 - _Introducing MLOps_, by Mark Treveil et al.
