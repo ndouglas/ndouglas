@@ -13,23 +13,15 @@ I have a few organizations for specific "themes" of projects that I play with:
 - <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/): More personal, "about me" sort of things, or intended for personal use but left open-source for use by others.
 - <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/): Professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer.
 - <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/): Related to my [Pi Bramble](https://goldentooth.net/), a sort of chaos zoo.
-
-### 📖 Currently Reading
-- _Introducing MLOps_, by Mark Treveil et al.
-- _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming
-
-### 📓 Currently Working Through
-- _Build an Orchestrator in Go (From Scratch)_, by Tim Boring
+  - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
+  - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
+  - **[Clog (Changelog)](https://github.com/goldentooth/clog)**: Journaling/documenting the process ([Link](https://clog.goldentooth.net/)) (Markdown)
 
 ### ⚒️ Projects
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
 
 - 🗣️ **[Whispers](https://github.com/ndouglas/whispers/)**: A self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus (Rust)
-- 🦷 **[GoldenTooth](https://github.com/goldentooth/)**: Raspberry Pi cluster projects (Kubernetes, Slurm, Nomad, etc)
-  - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
-  - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
-  - **[Clog (Changelog)](https://github.com/goldentooth/clog)**: Journaling/documenting the process ([Link](https://clog.goldentooth.net/)) (Markdown)
 - 💻 **[Blackpool](https://github.com/ndouglas/blackpool/)**: An implementation of the Lox programming language and virtual machine (Rust)
 - 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
 - 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
@@ -46,19 +38,6 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 _I don't have a scientific background or training, but I'm trying to read as many papers as possible to catch up. As noted above, I'm weighing getting a PhD, so I'm kinda practicing by trying to engage more with the literature._
 
 - **[Distillation PoC](https://github.com/ndouglas/distillation-poc/)**: An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
-
-### 📕 Recently Finished Reading:
-
-- _Platform Engineering_, by Camille Fournier and Ian Nowland (⭐⭐⭐⭐⭐)
-- _Man's Search for Meaning_, by Victor E. Frankl (⭐⭐⭐⭐⭐)
-- _A Philosophy of Software Design_, by John Ousterhout (⭐⭐⭐)
-- _99 Bottles of OOP_, by Sandi Metz (⭐⭐⭐⭐⭐)
-- _Sapiens: A Brief History of Humankind_, by Yuval Noah Harari (⭐⭐⭐⭐⭐)
-- _Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better_, by Jennifer Pahlka (⭐⭐⭐⭐⭐)
-- _The Eternal Frontier_, by Tim Flannery (⭐⭐⭐⭐⭐)
-- _Crafting Interpreters_, by Robert Nystrom (⭐⭐⭐⭐⭐)
-- _Thinking in Systems: A Primer_, by Donella Meadows (⭐⭐⭐⭐⭐)
-- _An Elegant Puzzle: Systems of Engineering Management_, by Will Larson (⭐⭐⭐⭐⭐)
 
 ### 🎲 Free Time
 
