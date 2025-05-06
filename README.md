@@ -47,16 +47,6 @@ _I don't have a scientific background or training, but I'm trying to read as man
 
 - **[Distillation PoC](https://github.com/ndouglas/distillation-poc/)**: An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 
-### 🔮 Potential Future Projects:
-
-_In case I get uploaded into the Singularity and have an inexhaustible amount of free time_
-
-- A debugger where you select a couple of lines and a static analyzer determines and allows you to provide values for in-scope variables in normal code
-- Build a neural network from scratch
-- Build an LLM from scratch
-- Build a tower defense game based around system design principles
-- Build a deep-learning agent that can learn how to play and beat _Zork_
-
 ### 📕 Recently Finished Reading:
 
 - _Platform Engineering_, by Camille Fournier and Ian Nowland (⭐⭐⭐⭐⭐)
