@@ -8,16 +8,6 @@
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
 - 👨 He/Him
 
-### Organizations and Projects
-I have a few organizations for specific "themes" of projects that I play with:
-
-- <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/): More personal, "about me" sort of things, or intended for personal use but left open-source for use by others.
-- <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/): Professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer.
-- <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/): Related to my [Pi Bramble](https://goldentooth.net/), a sort of chaos zoo.
-  - **[Cluster](https://github.com/goldentooth/cluster/)**: Node configuration, cluster bootstrapping, GitOps configuration (Ansible, Terraform)
-  - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
-  - **[Clog (Changelog)](https://github.com/goldentooth/clog)**: Journaling/documenting the process ([Link](https://clog.goldentooth.net/)) (Markdown)
-
 ### 🎨 Personal Projects
 
 _I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
@@ -56,7 +46,7 @@ _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display
 - 🛣️ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
 
 
-### 🧑🏻‍🔬 Projects (Bitterbridge)
+### 🧑🏻‍🔬 Professional/Educational Projects
 
 _I keep projects related to professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer in <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/)._
 
@@ -68,7 +58,7 @@ _I keep projects related to professional growth/interest, stuff I'm doing primar
 - ☕️ [distillation](https://github.com/bitterbridge/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 
 
-### 🎲 Projects
+### 🎲 Miscellaneous Projects
 
 _I keep everything else in <span style="display:inline-block; min-width: 2em;">🌀</span>[**ndouglas**](https://github.com/ndouglas/)._
 
