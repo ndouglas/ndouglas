@@ -39,6 +39,9 @@ jobs:
     outputs:
       base64: ${{ steps.get-org-repos-md.outputs.base64 }}
     steps:
+      - name: Checkout code
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
       - name: Get Org Repos Markdown
         id: get-org-repos-md
         uses: ./.github/actions/get-org-repos-md
@@ -52,6 +55,9 @@ jobs:
     outputs:
       base64: ${{ steps.get-org-repos-md.outputs.base64 }}
     steps:
+      - name: Checkout code
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
       - name: Get Org Repos Markdown
         id: get-org-repos-md
         uses: ./.github/actions/get-org-repos-md
@@ -65,6 +71,9 @@ jobs:
     outputs:
       base64: ${{ steps.get-org-repos-md.outputs.base64 }}
     steps:
+      - name: Checkout code
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
       - name: Get Org Repos Markdown
         id: get-org-repos-md
         uses: ./.github/actions/get-org-repos-md
@@ -78,6 +87,9 @@ jobs:
     outputs:
       base64: ${{ steps.get-org-repos-md.outputs.base64 }}
     steps:
+      - name: Checkout code
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
       - name: Get Org Repos Markdown
         id: get-org-repos-md
         uses: ./.github/actions/get-org-repos-md
