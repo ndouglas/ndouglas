@@ -56,7 +56,7 @@ _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display
 - 🛣️ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
 
 
-### ⚒️ Projects (Bitterbridge)
+### 🧑🏻‍🔬 Projects (Bitterbridge)
 
 _I keep projects related to professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer in <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/)._
 
@@ -73,7 +73,7 @@ _I keep projects related to professional growth/interest, stuff I'm doing primar
 _I keep everything else in <span style="display:inline-block; min-width: 2em;">🌉</span>[**ndouglas**](https://github.com/ndouglas/)._
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
-- ❓ [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
+- 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
@@ -89,12 +89,6 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 🪦 **[Runestone](https://github.com/ndouglas/runestone)**: A text adventure game experiment (Prolog)
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
 - 🪨 **[Oldstones](https://github.com/ndouglas/oldstones)**: An implementation of Tim Boring's simple orchestrator (Go)
-
-### 🧑🏻‍🔬 Research
-
-_I don't have a scientific background or training, but I'm trying to read as many papers as possible to catch up. As noted above, I'm weighing getting a PhD, so I'm kinda practicing by trying to engage more with the literature._
-
-- **[Distillation PoC](https://github.com/ndouglas/distillation-poc/)**: An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 
 ### 🎲 Free Time
 
