@@ -21,22 +21,6 @@ I have a few organizations for specific "themes" of projects that I play with:
 ### 📓 Currently Working Through
 - _Build an Orchestrator in Go (From Scratch)_, by Tim Boring
 
-### 🥇 Short-Term Goals (2025)
-
-- Certified Kubernetes Administrator
-- Move into MLOps/ML adjacent engineering position
-- Relearn basic French
-
-### ⏳ Medium-Term Goals (2026-2028)
-
-- Move into HPC or Scientific Computing
-- Move to France 🇫🇷
-
-### ⌛️ Long-Term Goals (2029+)
-
-- Possibly get PhD in math, CS, systems theory, or complexity science
-- Move into CS research
-
 ### ⚒️ Projects
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
