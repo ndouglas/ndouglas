@@ -19,7 +19,7 @@ runs:
   steps:
     - name: Get Org Repos Info
       id: get-org-repos-info
-      uses: bitterbridge/github-actions/get-org-repos-info@v0.0.34
+      uses: bitterbridge/github-actions/get-org-repos-info@v0.0.35
       env:
         GITHUB_TOKEN: ${{ inputs.github-token }}
       with:
@@ -27,6 +27,6 @@ runs:
 
     - name: Format Org Repos Info
       id: format-org-repos-info-md
-      uses: bitterbridge/github-actions/format-org-repos-info-md@v0.0.34
+      uses: bitterbridge/github-actions/format-org-repos-info-md@v0.0.35
       with:
         repos: ${{ steps.get-org-repos-info.outputs.repos }}
