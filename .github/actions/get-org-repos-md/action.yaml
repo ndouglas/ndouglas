@@ -1,0 +1,32 @@
+name: "Get Org Repos Markdown"
+description: "Get the list of repositories in an organization and format them as markdown"
+
+inputs:
+  owner:
+    required: true
+    description: "Owner of the repository"
+  github-token:
+    required: true
+    description: "GitHub token for authentication"
+
+outputs:
+  base64:
+    description: "Formatted markdown for the repositories, base64 encoded"
+    value: ${{ steps.format-org-repos-info-md.outputs.base64 }}
+
+runs:
+  using: composite
+  steps:
+    - name: Get Org Repos Info
+      id: get-org-repos-info
+      uses: bitterbridge/github-actions/get-org-repos-info@main
+      env:
+        GITHUB_TOKEN: ${{ inputs.github-token }}
+      with:
+        owner: ${{ inputs.owner }}
+
+    - name: Format Org Repos Info
+      id: format-org-repos-info-md
+      uses: bitterbridge/github-actions/format-org-repos-info-md@main
+      with:
+        repos: ${{ steps.get-org-repos-info.outputs.repos }}

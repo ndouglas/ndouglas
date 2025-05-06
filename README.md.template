@@ -1,4 +1,5 @@
 ### 👋 Sup
+{{ webring }}
 
 - 💻 Software/DevOps/Platform/Site Reliability Engineer with ~13 years of experience
 - 🧠 Looking to move into MLOps/HPC/ML/DL, perhaps get my PhD in math (perhaps in the area of topology/manifolds), CS (deep learning), or complexity science
@@ -17,15 +18,29 @@ I have a few organizations for specific "themes" of projects that I play with:
   - **[Bash](https://github.com/goldentooth/bash/)**: Cluster sugar scripts (Bash)
   - **[Clog (Changelog)](https://github.com/goldentooth/clog)**: Journaling/documenting the process ([Link](https://clog.goldentooth.net/)) (Markdown)
 
-### 🎨 Projects
+### 🎨 Personal Projects
 
 _I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
 
+{{ hellholt_repositories }}
 
+### 🐵 \*Ops, Platform, and System Design Projects
 
-### 🐣 Projects
+_I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/)._
 
-### ⚒️ Projects
+{{ goldentooth_repositories }}
+
+### ⚒️ Projects (Bitterbridge)
+
+_I keep projects related to professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer in <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/)._
+
+{{ bitterbridge_repositories }}
+
+### 🎲 Projects
+
+_I keep everything else in <span style="display:inline-block; min-width: 2em;">🌉</span>[**ndouglas**](https://github.com/ndouglas/)._
+
+{{ ndouglas_repositories }}
 
 _These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
 
