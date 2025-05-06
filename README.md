@@ -65,12 +65,12 @@ _I keep projects related to professional growth/interest, stuff I'm doing primar
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 📈 [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
-- ☕️ [distillation](https://github.com/bitterbridge/distillation): A PoC to learn how neural network distillation works.
+- ☕️ [distillation](https://github.com/bitterbridge/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 
 
 ### 🎲 Projects
 
-_I keep everything else in <span style="display:inline-block; min-width: 2em;">🌉</span>[**ndouglas**](https://github.com/ndouglas/)._
+_I keep everything else in <span style="display:inline-block; min-width: 2em;">🌀</span>[**ndouglas**](https://github.com/ndouglas/)._
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
