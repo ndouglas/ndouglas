@@ -2,6 +2,7 @@
 - 👨 Nathan/Nate Douglas, He/Him
 - 💻 Software/DevOps/Platform/Site Reliability Engineer with ~13 years of experience
 - 🧠 Looking to move into MLOps/HPC/ML/DL, perhaps get my [PhD in math (perhaps in the area of topology/manifolds), CS (deep learning), or complexity science](https://github.com/hellholt/phd-ideas/)
+
 - 🏥 Working for [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
   - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (10/2020-02/2024)
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
@@ -48,6 +49,8 @@ _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display
 
 _I keep projects related to professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer in <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/)._
 
+- 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
+- 💻 [blackpool](https://github.com/bitterbridge/blackpool): An implementation of the Lox Virtual Machine, written in Rust
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
@@ -78,7 +81,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 - 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
 - 🪨 **[Oldstones](https://github.com/ndouglas/oldstones)**: An implementation of Tim Boring's simple orchestrator (Go)
 
-### 🎲 Free Time
+### 🪁 Free Time
 
 - 🖌️ painting miniatures
 - 🖨️ printing miniatures faster than I can paint them
@@ -117,3 +120,7 @@ _These are often embryonic and/or sitting idle for months at a time. There's onl
 -->
 
 ![ih7fej7bj9821](https://github.com/user-attachments/assets/6784e08b-88b1-4760-a856-ed1d6e17c0df)
+
+---
+
+( <span style="display:inline-block; min-width: 2em;">🌀</span>[ndouglas](https://github.com/ndouglas/) | <span style="display:inline-block; min-width: 2em;">🌉</span>[bitterbridge](https://github.com/bitterbridge/) | <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[hellholt](https://github.com/hellholt/) | <span style="display:inline-block; min-width: 2em;">🦷</span>[goldentooth](https://github.com/goldentooth/) )
