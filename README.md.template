@@ -7,12 +7,6 @@
   - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (10/2020-02/2024)
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
 
-### 🎨 Personal Projects
-
-_I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
-
-{{ hellholt_repositories }}
-
 ### 🐵 MLOps/DevOps/\*Ops, Platform, and System Design Projects
 
 _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/)._
@@ -24,6 +18,12 @@ _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display
 _I keep projects related to professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer in <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/)._
 
 {{ bitterbridge_repositories }}
+
+### 🎨 Personal Projects
+
+_I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
+
+{{ hellholt_repositories }}
 
 ### 🎲 Miscellaneous Projects
 
