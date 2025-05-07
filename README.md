@@ -7,26 +7,6 @@
   - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (10/2020-02/2024)
   - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
 
-### 🎨 Personal Projects
-
-_I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
-
-- 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
-- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
-- 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
-- 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
-- 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
-- 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
-- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
-- 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
-- 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
-- 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
-- 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
-- ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
-- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
-
-
 ### 🐵 MLOps/DevOps/\*Ops, Platform, and System Design Projects
 
 _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/)._
@@ -62,6 +42,26 @@ _I keep projects related to professional growth/interest, stuff I'm doing primar
 - 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - ☕️ [distillation](https://github.com/bitterbridge/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 - 📈 [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
+
+
+### 🎨 Personal Projects
+
+_I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
+
+- 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
+- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
+- 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
+- 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
+- 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
+- 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
+- 👋 [.github](https://github.com/hellholt/.github): Special Repository
+- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
+- 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+- 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
+- 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
+- ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
+- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 
 
 ### 🎲 Miscellaneous Projects
