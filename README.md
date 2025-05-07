@@ -11,25 +11,28 @@
 
 _I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
 
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
+- 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
+- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
+- 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
+- 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
 - 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
+- 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
+- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
-- 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
 - 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
 - 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
 - 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
 - ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
-- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 
 
-### 🐵 \*Ops, Platform, and System Design Projects
+### 🐵 MLOps/DevOps/\*Ops, Platform, and System Design Projects
 
 _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/)._
 
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🛣️ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
 - 🫀 [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
 - 🧱 [clog](https://github.com/goldentooth/clog): Dev blog, formerly known as **Kubernetes, the _Excruciating_ Way**
@@ -50,15 +53,14 @@ _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display
 _I keep projects related to professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer in <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/)._
 
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
+- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
-- 📚 [books](https://github.com/bitterbridge/books): Books about professional development and similar topics.
 - 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 🧊 [unity-hashing-grid](https://github.com/bitterbridge/unity-hashing-grid): Hashing Grid implementation in Unity
 - 💻 [blackpool](https://github.com/bitterbridge/blackpool): An implementation of the Lox Virtual Machine, written in Rust
 - 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - ☕️ [distillation](https://github.com/bitterbridge/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
-- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
-- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 📈 [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
 
 
