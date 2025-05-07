@@ -11,55 +11,55 @@
 
 _I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
 
-- 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
-- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
-- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
-- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
-- 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
-- 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
-- ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
-- 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
-- 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
 - 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
+- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
+- 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
+- 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+- 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
+- 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
+- ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
+- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
+- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 
 
 ### 🐵 \*Ops, Platform, and System Design Projects
 
 _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/)._
 
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
-- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
-- 🐚 [bash](https://github.com/goldentooth/bash): Bash scripts for interacting with GoldenTooth, my Pi Bramble/Cluster
-- 🧲 [metallb](https://github.com/goldentooth/metallb): MetalLB ArgoCD application
-- 📡 [httpbin](https://github.com/goldentooth/httpbin): `httpbingo` Argo CD application
-- 📈 [prometheus-node-exporter](https://github.com/goldentooth/prometheus-node-exporter): Argo CD application
-- 🧬 [gitops-template](https://github.com/goldentooth/gitops-template): A template for my GitOps repositories.
-- 🌐 [external-dns](https://github.com/goldentooth/external-dns): ExternalDNS GitOps repository.
-- 🔐 [sealed-secrets](https://github.com/goldentooth/sealed-secrets): SealedSecrets GitOps repository.
-- 🗝️ [external-secrets](https://github.com/goldentooth/external-secrets): GitOps repository for ExternalSecrets
-- 🧱 [clog](https://github.com/goldentooth/clog): Dev blog, formerly known as **Kubernetes, the _Excruciating_ Way**
-- 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
-- 🫀 [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🛣️ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
+- 🫀 [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
+- 🧱 [clog](https://github.com/goldentooth/clog): Dev blog, formerly known as **Kubernetes, the _Excruciating_ Way**
+- 🗝️ [external-secrets](https://github.com/goldentooth/external-secrets): GitOps repository for ExternalSecrets
+- 🔐 [sealed-secrets](https://github.com/goldentooth/sealed-secrets): SealedSecrets GitOps repository.
+- 🌐 [external-dns](https://github.com/goldentooth/external-dns): ExternalDNS GitOps repository.
+- 🧬 [gitops-template](https://github.com/goldentooth/gitops-template): A template for my GitOps repositories.
+- 📈 [prometheus-node-exporter](https://github.com/goldentooth/prometheus-node-exporter): Argo CD application
+- 📡 [httpbin](https://github.com/goldentooth/httpbin): `httpbingo` Argo CD application
+- 🧲 [metallb](https://github.com/goldentooth/metallb): MetalLB ArgoCD application
+- 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+- 🐚 [bash](https://github.com/goldentooth/bash): Bash scripts for interacting with GoldenTooth, my Pi Bramble/Cluster
+- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
 
 
 ### 🧑🏻‍🔬 Professional/Educational Projects
 
 _I keep projects related to professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer in <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/)._
 
-- 🧊 [unity-hashing-grid](https://github.com/bitterbridge/unity-hashing-grid): Hashing Grid implementation in Unity
-- 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
-- 💻 [blackpool](https://github.com/bitterbridge/blackpool): An implementation of the Lox Virtual Machine, written in Rust
-- 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
-- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
-- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
-- 📈 [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
-- ☕️ [distillation](https://github.com/bitterbridge/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 - 📚 [books](https://github.com/bitterbridge/books): Books about professional development and similar topics.
+- 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
+- 🧊 [unity-hashing-grid](https://github.com/bitterbridge/unity-hashing-grid): Hashing Grid implementation in Unity
+- 💻 [blackpool](https://github.com/bitterbridge/blackpool): An implementation of the Lox Virtual Machine, written in Rust
+- 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
+- ☕️ [distillation](https://github.com/bitterbridge/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
+- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
+- 📈 [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
 
 
 ### 🎲 Miscellaneous Projects
