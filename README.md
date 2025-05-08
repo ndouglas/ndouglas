@@ -87,12 +87,12 @@ The primordial soup. Side projects, early sketches, speculative toys, and the oc
 
 > _“No plan survives first contact with GitHub.”_
 
+- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - ❓ [dalt](https://github.com/ndouglas/dalt): 🍋 Dalt is a little webserver for monitoring and controlling devices in my workshop/grow room.
 - ❓ [ndh_humidifier](https://github.com/ndouglas/ndh_humidifier): My little ESP8266-based humidifier.
 - ❓ [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - ❓ [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
 - ❓ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
-- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 
 
