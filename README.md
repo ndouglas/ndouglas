@@ -14,7 +14,7 @@
 
 ### 🦷 [**GoldenTooth**](https://github.com/goldentooth)
 A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a Pi bramble.
-Use case: failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
+Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
