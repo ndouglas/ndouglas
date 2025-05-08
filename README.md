@@ -13,7 +13,7 @@
 ## 🧰 Clusters, Systems & Experimental Infra
 
 ### 🦷 [**GoldenTooth**](https://github.com/goldentooth)
-A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a bramble of Raspberry Pis.
+A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a Pi bramble.
 Use case: failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
@@ -36,8 +36,7 @@ Use case: failure injection, distributed systems, observability, emergent behavi
 ---
 
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
-A bridge between real-world engineering and speculative tinkering.
-Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
+A bridge between real-world engineering and speculative tinkering. Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
 
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🔢 [MIPS-Sudoku-Solver](https://github.com/bitterbridge/MIPS-Sudoku-Solver): A Sudoku solver, written in MIPS R4K assembly.
@@ -77,7 +76,7 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ---
 
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
-The primordial soup. Side projects, early sketches, speculative toys, and the occasional cursed masterpiece.
+The primordial soup. Side projects, early sketches, and speculative toys.
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
