@@ -14,9 +14,7 @@
 
 ### 🦷 [**GoldenTooth**](https://github.com/goldentooth)
 A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a bramble of Raspberry Pis.
-Use case: failure injection, distributed systems, observability, emergent behavior.
-
-> _“Nothing is sacred. Everything is an experiment.”_
+Use case: failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
@@ -41,8 +39,6 @@ Use case: failure injection, distributed systems, observability, emergent behavi
 A bridge between real-world engineering and speculative tinkering.
 Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
 
-> _“Professional polish meets unfinished philosophy.”_
-
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🔢 [MIPS-Sudoku-Solver](https://github.com/bitterbridge/MIPS-Sudoku-Solver): A Sudoku solver, written in MIPS R4K assembly.
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
@@ -60,8 +56,6 @@ Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
 
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
 My personal creative core: philosophical fragments, PhD proposals, weird blog posts, symbolic systems, magical realism, and dream-logic infrastructure.
-
-> _“Where the metaphysics leak into the code.”_
 
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
@@ -84,8 +78,6 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, speculative toys, and the occasional cursed masterpiece.
-
-> _“No plan survives first contact with GitHub.”_
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
