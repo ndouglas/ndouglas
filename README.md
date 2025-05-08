@@ -1,15 +1,22 @@
-# 👋 Sup
+# 👋 Sup, I'm Nathan Douglas
 
-- 👨 Nathan/Nate Douglas, He/Him
-- 💻 Software/DevOps/Platform/Site Reliability Engineer with ~13 years of experience
-- 🧠 Looking to move into MLOps/HPC/ML/DL, perhaps get my [PhD in math, CS, or complexity science](https://github.com/hellholt/phd-ideas/).
-- 🏥 Working for [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
-  - the [VA.gov Modernization](https://www.va.gov/modernization/) initiative (10/2020-02/2024)
-  - the [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) system (02/2024-present)
+- 👨 He/Him | 🧠 System-builder, world-dreamer, curious generalist
+- 💻 ~13 years in software, DevOps, platform & reliability engineering
+- 🧠 Now shifting into MLOps, HPC, and simulation infrastructure
+- 🎓 Exploring the possibility of a [PhD in math, CS, or complexity science](https://github.com/hellholt/phd-ideas/)
+- 🏥 Working at [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
+  - [VA.gov Modernization](https://www.va.gov/modernization/) (10/2020–02/2024)
+  - [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) (02/2024–present)
 
-### 🐵 MLOps/DevOps/\*Ops, Platform, and System Design Projects
+---
 
-_I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display:inline-block; min-width: 2em;">🦷</span>[**goldentooth**](https://github.com/goldentooth/)._
+## 🧰 Clusters, Systems & Experimental Infra
+
+### 🦷 [**GoldenTooth**](https://github.com/goldentooth)
+A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a bramble of Raspberry Pis.
+Use case: failure injection, distributed systems, observability, emergent behavior.
+
+> _“Nothing is sacred. Everything is an experiment.”_
 
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
@@ -28,9 +35,13 @@ _I keep projects related to my "Chaos Zoo", Goldentooth, in <span style="display
 - 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
 
 
-### 🧑🏻‍🔬 Professional/Educational Projects
+---
 
-_I keep projects related to professional growth/interest, stuff I'm doing primarily to learn or progress as an engineer in <span style="display:inline-block; min-width: 2em;">🌉</span>[**bitterbridge**](https://github.com/bitterbridge/)._
+### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
+A bridge between real-world engineering and speculative tinkering.
+Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
+
+> _“Professional polish meets unfinished philosophy.”_
 
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
@@ -44,9 +55,12 @@ _I keep projects related to professional growth/interest, stuff I'm doing primar
 - 📈 [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
 
 
-### 🎨 Personal Projects
+---
 
-_I keep more personal, "about me" sort of things, or intended for personal use but left open-source for use by others in <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[**hellholt**](https://github.com/hellholt/)._
+### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
+My personal creative core: philosophical fragments, PhD proposals, weird blog posts, symbolic systems, magical realism, and dream-logic infrastructure.
+
+> _“Where the metaphysics leak into the code.”_
 
 - 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
@@ -64,47 +78,36 @@ _I keep more personal, "about me" sort of things, or intended for personal use b
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 
 
-### 🎲 Miscellaneous Projects
+---
 
-_I keep everything else in <span style="display:inline-block; min-width: 2em;">🌀</span>[**ndouglas**](https://github.com/ndouglas/)._
+### 🌀 [**ndouglas**](https://github.com/ndouglas)
+The primordial soup. Side projects, early sketches, speculative toys, and the occasional cursed masterpiece.
+
+> _“No plan survives first contact with GitHub.”_
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 
 
-_These are often embryonic and/or sitting idle for months at a time. There's only one of me and I have far more ambition and curiosity than time._
+---
 
-- 👱‍♀️ **[Pinkmaiden](https://github.com/ndouglas/pinkmaiden/)**: An endlessly scrolling image-sharing site, sometimes NSFW ([Link](https://pnk.darkdell.net)) (Python, Terraform)
-- 🌈 **[Sunhouse](https://github.com/ndouglas/sunhouse/)**: A simple ray tracer (Rust)
-- 🎮 **[Greenstone](https://github.com/ndouglas/greenstone)**: A NES emulator that's somewhere in the PPU implementation (Rust)
-- 🪦 **[Runestone](https://github.com/ndouglas/runestone)**: A text adventure game experiment (Prolog)
-- 📏 **[Pebbleton](https://github.com/ndouglas/pebbleton)**: A general-purpose YAML rules engine that I started writing (Rust)
-- 🪨 **[Oldstones](https://github.com/ndouglas/oldstones)**: An implementation of Tim Boring's simple orchestrator (Go)
+## 🎈 Outside the Terminal
 
-### 🪁 Free Time
+- 🇫🇷 Relearning French
+- 🧱 Building LEGO with [my kid](https://github.com/JomoDuggins)
+- 🖌️ Painting miniatures (and printing them faster than I can paint them)
+- 🧘‍♂️ Lifting, cycling, rowing — brain only works when body does
+- 👨‍🍳 Cooking (🥖 baking, 🧀 cheesemaking, 🍝 experimenting)
+- 🎥 [Letterboxd](https://letterboxd.com/supertempt768/)
+- 🎼 [RateYourMusic](https://rateyourmusic.com/~NathanDouglas)
+- 🎮 Not playing anything in my Steam backlog
+- 🎲 Not playing any of my board games either
+- 🌵 Practicing succulent restraint
+- 🧠 <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> Currently top 3% on [TryHackMe](https://tryhackme.com)
 
-- 🇫🇷 relearning French
-- 🖌️ painting miniatures
-- 🖨️ printing miniatures faster than I can paint them
-- 🧱 building LEGO stuff with my [kid](https://github.com/JomoDuggins)
-- 💪 exercising:
-  - 🏋️‍♂️ lifting weights
-  - 🚴 cycling
-  - 🚣 rowing
-- 👨‍🍳 cooking:
-  - 🥖 baking
-  - 🧀 cheesemaking
-  - 🍝 general
-- 🌵 not overwatering my succulents
-- 🎥 [watching movies](https://letterboxd.com/supertempt768/)
-- 📺 watching a show (currently _Star Trek_, the original series, because I could really use some of that Great Society-era optimism ATM NGL LOL)
-- 🎼 [listening to music](https://rateyourmusic.com/~NathanDouglas)
-- 📚 reading fiction (my favorite books are George R. R. Martin's _A Song of Ice and Fire_, if you couldn't tell from my project names)
-- 🎲 not playing any of my ridiculous backlog of board games
-- 🎮 not playing anything in my Steam library
-- 🤖 <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> currently top 3% on [TryHackMe](https://tryhackme.com/)
+---
 
-![ih7fej7bj9821](https://github.com/user-attachments/assets/6784e08b-88b1-4760-a856-ed1d6e17c0df)
+!["I try to make everyone's life a little more surreal."](https://github.com/user-attachments/assets/6784e08b-88b1-4760-a856-ed1d6e17c0df)
 
 ---
 
