@@ -64,7 +64,7 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 > _“Where the metaphysics leak into the code.”_
 
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
-- ❓ [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
+- 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
 - 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
@@ -87,12 +87,12 @@ The primordial soup. Side projects, early sketches, speculative toys, and the oc
 
 > _“No plan survives first contact with GitHub.”_
 
+- ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
+- 🧭 [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
+- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
+- 💦 [ndh_humidifier](https://github.com/ndouglas/ndh_humidifier): My little ESP8266-based humidifier.
+- 🍋 [dalt](https://github.com/ndouglas/dalt): 🍋 Dalt is a little webserver for monitoring and controlling devices in my workshop/grow room.
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
-- ❓ [dalt](https://github.com/ndouglas/dalt): 🍋 Dalt is a little webserver for monitoring and controlling devices in my workshop/grow room.
-- ❓ [ndh_humidifier](https://github.com/ndouglas/ndh_humidifier): My little ESP8266-based humidifier.
-- ❓ [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
-- ❓ [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
-- ❓ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 
 
