@@ -129,7 +129,7 @@ jobs:
 
       - name: Render Profile Template
         id: render-profile-template
-        uses: bitterbridge/github-actions/render-profile-template@v0.0.41
+        uses: bitterbridge/github-actions/render-profile-template@v0.0.43
         with:
           owner: 'ndouglas'
           repo: 'ndouglas'
@@ -138,10 +138,10 @@ jobs:
 
       - name: Write Profile README
         id: write-profile-readme
-        uses: bitterbridge/github-actions/write-profile-readme@v0.0.42
+        uses: bitterbridge/github-actions/write-profile-readme@v0.0.43
         with:
           github-token: ${{ needs.setup.outputs.github-token }}
           owner: 'ndouglas'
           repo: 'ndouglas'
-          content: ${{ steps.render-profile-template.outputs.markdown }}
           path: 'README.md'
+          content: ${{ steps.render-profile-template.outputs.base64 }}
