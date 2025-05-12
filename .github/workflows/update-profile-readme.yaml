@@ -138,7 +138,7 @@ jobs:
 
       - name: Write Profile README
         id: write-profile-readme
-        uses: bitterbridge/github-actions/write-profile-readme@v0.0.41
+        uses: bitterbridge/github-actions/write-profile-readme@v0.0.42
         with:
           github-token: ${{ needs.setup.outputs.github-token }}
           owner: 'ndouglas'
