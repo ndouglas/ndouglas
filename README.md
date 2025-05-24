@@ -18,11 +18,11 @@ A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAP
 Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🌊 [flood](https://github.com/goldentooth/flood): A little Rust app for sending a bunch of HTTP requests as fast as possible.
 - 🏁 [flags](https://github.com/goldentooth/flags): An experimental high-performance self-organizing feature flag server cluster.
-- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
 - 🫀 [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
 - 🐚 [bash](https://github.com/goldentooth/bash): Bash scripts for interacting with GoldenTooth, my Pi Bramble/Cluster
 - 🛣️ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
@@ -82,8 +82,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, and speculative toys.
 
-- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
+- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🇫🇷 [french.sh](https://github.com/ndouglas/french.sh): Shell scripts for making French flashcards and stuff, because that is apparently what my life is ATM.
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
 - 🧭 [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
