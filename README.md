@@ -17,13 +17,13 @@
 A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a Pi bramble.
 Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
-- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
+- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
+- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
+- 🐚 [bash](https://github.com/goldentooth/bash): Bash scripts for interacting with GoldenTooth, my Pi Bramble/Cluster
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 📈 [prometheus-node-exporter](https://github.com/goldentooth/prometheus-node-exporter): Argo CD application
 - 📊 [grafana-dashboards](https://github.com/goldentooth/grafana-dashboards): Grafana Dashboards
-- 🐚 [bash](https://github.com/goldentooth/bash): Bash scripts for interacting with GoldenTooth, my Pi Bramble/Cluster
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🌊 [flood](https://github.com/goldentooth/flood): A little Rust app for sending a bunch of HTTP requests as fast as possible.
 - 🏁 [flags](https://github.com/goldentooth/flags): An experimental high-performance self-organizing feature flag server cluster.
 - 🫀 [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
@@ -42,9 +42,9 @@ Failure injection, distributed systems, observability, emergent behavior. Nothin
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
 A bridge between real-world engineering and speculative tinkering. Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
 
-- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 🔢 [mips-sudoku-solver](https://github.com/bitterbridge/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
@@ -60,9 +60,9 @@ A bridge between real-world engineering and speculative tinkering. Reusable IaC,
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
 My personal creative core: philosophical fragments, PhD proposals, weird blog posts, symbolic systems, magical realism, and dream-logic infrastructure.
 
-- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- 👋 [.github](https://github.com/hellholt/.github): Special Repository
+- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
@@ -83,8 +83,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, and speculative toys.
 
-- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
+- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🇫🇷 [french.sh](https://github.com/ndouglas/french.sh): Shell scripts for making French flashcards and stuff, because that is apparently what my life is ATM.
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
 - 🧭 [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
