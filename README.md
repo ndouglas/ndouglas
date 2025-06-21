@@ -17,8 +17,8 @@
 A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a Pi bramble.
 Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
-- 🧞 [agent](https://github.com/goldentooth/agent): An intelligent agent for Goldentooth.
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
+- 🧞 [agent](https://github.com/goldentooth/agent): An intelligent agent for Goldentooth.
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
@@ -84,8 +84,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, and speculative toys.
 
-- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
+- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🇫🇷 [french.sh](https://github.com/ndouglas/french.sh): Shell scripts for making French flashcards and stuff, because that is apparently what my life is ATM.
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
