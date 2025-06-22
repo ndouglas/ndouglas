@@ -18,24 +18,24 @@ A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAP
 Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
 - 🧞 [agent](https://github.com/goldentooth/agent): An intelligent agent for Goldentooth.
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
-- 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
-- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
-- 🐚 [bash](https://github.com/goldentooth/bash): Bash scripts for interacting with GoldenTooth, my Pi Bramble/Cluster
-- 📈 [prometheus-node-exporter](https://github.com/goldentooth/prometheus-node-exporter): Argo CD application
-- 📊 [grafana-dashboards](https://github.com/goldentooth/grafana-dashboards): Grafana Dashboards
-- 🌊 [flood](https://github.com/goldentooth/flood): A little Rust app for sending a bunch of HTTP requests as fast as possible.
-- 🏁 [flags](https://github.com/goldentooth/flags): An experimental high-performance self-organizing feature flag server cluster.
-- 🫀 [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
-- 🛣️ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
-- 🗝️ [external-secrets](https://github.com/goldentooth/external-secrets): GitOps repository for ExternalSecrets
-- 🔐 [sealed-secrets](https://github.com/goldentooth/sealed-secrets): SealedSecrets GitOps repository.
-- 🌐 [external-dns](https://github.com/goldentooth/external-dns): ExternalDNS GitOps repository.
-- 🧬 [gitops-template](https://github.com/goldentooth/gitops-template): A template for my GitOps repositories.
-- 📡 [httpbin](https://github.com/goldentooth/httpbin): `httpbingo` Argo CD application
-- 🧲 [metallb](https://github.com/goldentooth/metallb): MetalLB ArgoCD application
-- 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+- ❓ [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- ❓ [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
+- ❓ [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
+- ❓ [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
+- ❓ [bash](https://github.com/goldentooth/bash): Bash scripts for interacting with GoldenTooth, my Pi Bramble/Cluster
+- ❓ [prometheus-node-exporter](https://github.com/goldentooth/prometheus-node-exporter): Argo CD application
+- ❓ [grafana-dashboards](https://github.com/goldentooth/grafana-dashboards): Grafana Dashboards
+- ❓ [flood](https://github.com/goldentooth/flood): A little Rust app for sending a bunch of HTTP requests as fast as possible.
+- ❓ [flags](https://github.com/goldentooth/flags): An experimental high-performance self-organizing feature flag server cluster.
+- ❓ [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
+- ❓ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
+- ❓ [external-secrets](https://github.com/goldentooth/external-secrets): GitOps repository for ExternalSecrets
+- ❓ [sealed-secrets](https://github.com/goldentooth/sealed-secrets): SealedSecrets GitOps repository.
+- ❓ [external-dns](https://github.com/goldentooth/external-dns): ExternalDNS GitOps repository.
+- ❓ [gitops-template](https://github.com/goldentooth/gitops-template): A template for my GitOps repositories.
+- ❓ [httpbin](https://github.com/goldentooth/httpbin): `httpbingo` Argo CD application
+- ❓ [metallb](https://github.com/goldentooth/metallb): MetalLB ArgoCD application
+- ❓ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
 
 
 ---
