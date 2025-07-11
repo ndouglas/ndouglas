@@ -33,10 +33,10 @@ Failure injection, distributed systems, observability, emergent behavior. Nothin
 - 🗝️ [external-secrets](https://github.com/goldentooth/external-secrets): GitOps repository for ExternalSecrets
 - 🔐 [sealed-secrets](https://github.com/goldentooth/sealed-secrets): SealedSecrets GitOps repository.
 - 🌐 [external-dns](https://github.com/goldentooth/external-dns): ExternalDNS GitOps repository.
-- ❓ [gitops-template](https://github.com/goldentooth/gitops-template): A template for my GitOps repositories.
-- ❓ [httpbin](https://github.com/goldentooth/httpbin): `httpbingo` Argo CD application
-- ❓ [metallb](https://github.com/goldentooth/metallb): MetalLB ArgoCD application
-- ❓ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+- 🧬 [gitops-template](https://github.com/goldentooth/gitops-template): A template for my GitOps repositories.
+- 📡 [httpbin](https://github.com/goldentooth/httpbin): `httpbingo` Argo CD application
+- 🧲 [metallb](https://github.com/goldentooth/metallb): MetalLB ArgoCD application
+- 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
 
 
 ---
@@ -85,8 +85,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, and speculative toys.
 
-- 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
+- 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🇫🇷 [french.sh](https://github.com/ndouglas/french.sh): Shell scripts for making French flashcards and stuff, because that is apparently what my life is ATM.
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
