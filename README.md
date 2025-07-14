@@ -17,8 +17,8 @@
 A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a Pi bramble.
 Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
-- 🧞 [agent](https://github.com/goldentooth/agent): An intelligent agent for Goldentooth.
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🧞 [agent](https://github.com/goldentooth/agent): An intelligent agent for Goldentooth.
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
 - ❓ [agent-knowledge-base](https://github.com/goldentooth/agent-knowledge-base): Knowledge Base for the Goldentooth Agent
