@@ -17,11 +17,14 @@
 A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a Pi bramble.
 Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
+- ❓ [rook-ceph](https://github.com/goldentooth/rook-ceph): Rook Ceph cluster configuration for distributed storage with ReadWriteMany support on Raspberry Pi
 - ❓ [p5js-sketches](https://github.com/goldentooth/p5js-sketches): P5.js Sketch Server - Static file server for hosting p5.js sketches on Ceph storage
+- ❓ [rook-operator](https://github.com/goldentooth/rook-operator): Rook Ceph operator for Kubernetes-native distributed storage on Raspberry Pi cluster
+- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - ❓ [linear-regression](https://github.com/goldentooth/linear-regression): P5.js playground for experimenting with linear regression algorithms
 - ❓ [p5js-template](https://github.com/goldentooth/p5js-template): Template for P5.js sketches
 - 🧲 [metallb](https://github.com/goldentooth/metallb): MetalLB ArgoCD application
-- 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 📈 [kube-state-metrics](https://github.com/goldentooth/kube-state-metrics): Kubernetes object metrics collection for the goldentooth cluster
 - 🧰 [cross-compile-toolkit](https://github.com/goldentooth/cross-compile-toolkit): Containerized cross-compilation toolkit for ARM64 binaries targeting Raspberry Pi cluster
@@ -32,7 +35,6 @@ Failure injection, distributed systems, observability, emergent behavior. Nothin
 - 📊 [grafana-dashboards](https://github.com/goldentooth/grafana-dashboards): Grafana Dashboards
 - 🛰️ [mcp-server](https://github.com/goldentooth/mcp-server): MCP server for Goldentooth cluster management
 - 🐚 [bash](https://github.com/goldentooth/bash): Bash scripts for interacting with GoldenTooth, my Pi Bramble/Cluster
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🧞 [agent](https://github.com/goldentooth/agent): An experimental intelligent agent for my Pi Bramble
 - 🫀 [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
