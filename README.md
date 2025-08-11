@@ -17,11 +17,11 @@
 A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a Pi bramble.
 Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
+- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🛰️ [mcp-server](https://github.com/goldentooth/mcp-server): MCP server for Goldentooth cluster management
 - 🧞 [agent](https://github.com/goldentooth/agent): Intelligent agent for Goldentooth cluster management
 - 🧰 [ansible](https://github.com/goldentooth/ansible): Basic setup for my Pi bramble/cluster.
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🧰 [cross-compile-toolkit](https://github.com/goldentooth/cross-compile-toolkit): Containerized cross-compilation toolkit for ARM64 binaries targeting Raspberry Pi cluster
 - 📉 [p5js-sketches](https://github.com/goldentooth/p5js-sketches): P5.js Sketch Server - Static file server for hosting p5.js sketches on Ceph storage
@@ -45,9 +45,9 @@ Failure injection, distributed systems, observability, emergent behavior. Nothin
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
 A bridge between real-world engineering and speculative tinkering. Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
 
+- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
-- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 🔢 [mips-sudoku-solver](https://github.com/bitterbridge/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
