@@ -94,7 +94,7 @@ The primordial soup. Side projects, early sketches, and speculative toys.
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
 - 🧭 [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
 - 💦 [ndh_humidifier](https://github.com/ndouglas/ndh_humidifier): My little ESP8266-based humidifier.
-- 🍋 [dalt](https://github.com/ndouglas/dalt): 🍋 Dalt is a little webserver for monitoring and controlling devices in my workshop/grow room.
+- ❓ [dalt](https://github.com/ndouglas/dalt): 🍋 Dalt is a little webserver for monitoring and controlling devices in my workshop/grow room.
 
 
 ---
