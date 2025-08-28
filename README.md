@@ -35,9 +35,9 @@ Failure injection, distributed systems, observability, emergent behavior. Nothin
 - 🗝️ [external-secrets](https://github.com/goldentooth/external-secrets): GitOps repository for ExternalSecrets
 - 🌐 [external-dns](https://github.com/goldentooth/external-dns): ExternalDNS GitOps repository.
 - 🫀 [pulse](https://github.com/goldentooth/pulse): Node network effects visualized as a heartbeat.
-- ❓ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
-- ❓ [gitops-template](https://github.com/goldentooth/gitops-template): A template for my GitOps repositories.
-- ❓ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+- 🛣️ [roadmap](https://github.com/goldentooth/roadmap): Planning and researching the future of Goldentooth.
+- 🧬 [gitops-template](https://github.com/goldentooth/gitops-template): A template for my GitOps repositories.
+- 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
 
 
 ---
