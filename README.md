@@ -32,12 +32,12 @@ Failure injection, distributed systems, observability, emergent behavior. Nothin
 A bridge between real-world engineering and speculative tinkering. Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
 
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
+- 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 🔢 [mips-sudoku-solver](https://github.com/bitterbridge/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
-- 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 💻 [blackpool](https://github.com/bitterbridge/blackpool): An implementation of the Lox Virtual Machine, written in Rust
 - 🧊 [unity-hashing-grid](https://github.com/bitterbridge/unity-hashing-grid): Hashing Grid implementation in Unity
 - ☕️ [distillation](https://github.com/bitterbridge/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
@@ -73,8 +73,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, and speculative toys.
 
-- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
+- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🇫🇷 [french.sh](https://github.com/ndouglas/french.sh): Shell scripts for making French flashcards and stuff, because that is apparently what my life is ATM.
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
