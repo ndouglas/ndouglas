@@ -49,10 +49,10 @@ A bridge between real-world engineering and speculative tinkering. Reusable IaC,
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
 My personal creative core: philosophical fragments, PhD proposals, weird blog posts, symbolic systems, magical realism, and dream-logic infrastructure.
 
+- 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
-- 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
