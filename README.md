@@ -32,8 +32,8 @@ A bridge between real-world engineering and speculative tinkering. Reusable IaC,
 
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
-- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): P5.js Sketch Server - Static file server for hosting p5.js sketches on Ceph storage
+- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
@@ -73,8 +73,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, and speculative toys.
 
-- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
+- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🇫🇷 [french.sh](https://github.com/ndouglas/french.sh): Shell scripts for making French flashcards and stuff, because that is apparently what my life is ATM.
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
