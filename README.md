@@ -30,11 +30,11 @@ Failure injection, distributed systems, observability, emergent behavior. Nothin
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
 A bridge between real-world engineering and speculative tinkering. Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
 
+- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
+- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
-- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 🔢 [mips-sudoku-solver](https://github.com/bitterbridge/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
@@ -49,9 +49,9 @@ A bridge between real-world engineering and speculative tinkering. Reusable IaC,
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
 My personal creative core: philosophical fragments, PhD proposals, weird blog posts, symbolic systems, magical realism, and dream-logic infrastructure.
 
+- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
-- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
