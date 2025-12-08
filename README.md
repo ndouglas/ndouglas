@@ -49,8 +49,8 @@ A bridge between real-world engineering and speculative tinkering. Reusable IaC,
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
 My personal creative core: philosophical fragments, PhD proposals, weird blog posts, symbolic systems, magical realism, and dream-logic infrastructure.
 
-- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
+- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
