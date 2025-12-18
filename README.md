@@ -64,8 +64,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 - 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
 - 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
 - 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
-- ❓ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
-- ❓ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
+- ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
+- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 
 
 ---
@@ -73,8 +73,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, and speculative toys.
 
-- 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
+- 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🇫🇷 [french.sh](https://github.com/ndouglas/french.sh): Shell scripts for making French flashcards and stuff, because that is apparently what my life is ATM.
 - ⛵ [oldstones](https://github.com/ndouglas/oldstones): A simple orchestrator, written in Go.
