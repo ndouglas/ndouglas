@@ -2,7 +2,7 @@
 
 - 👨 He/Him | 🧠 hapless idiot, curious generalist
 - 🥸 Also go by "Nate", "Nate Dogg", "Nug Doug", "Nug Diddy", "Niddle Diddle"...
-- 💻 ~14 years in software, DevOps, platform & reliability engineering
+- 💻 ~14 years working in software, DevOps, platform & reliability engineering
 - 🧠 Now shifting into MLOps, HPC, and simulation infrastructure
 - 🎓 Exploring the possibility of a [PhD in math, CS, or complexity science](https://github.com/hellholt/phd-ideas/)
 - 🏥 Working at [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
@@ -13,7 +13,7 @@
 
 ## 🧰 Clusters, Systems & Experimental Infra
 
-### 🦷 [**GoldenTooth**](https://github.com/goldentooth)
+### 🦷 [**Goldentooth**](https://github.com/goldentooth)
 A chaos zoo of DevOps/MLOps infrastructure: Kubernetes, Slurm, Nomad, Vault, HAProxy, and more — all deployed on a Pi bramble.
 Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
