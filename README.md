@@ -71,8 +71,8 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 The primordial soup. Side projects, early sketches, and speculative toys.
 
-- 🪾 [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
+- 🪾 [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
 - 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🧭 [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
