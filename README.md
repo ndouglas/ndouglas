@@ -58,7 +58,7 @@ Weird experiments, speculative tinkering, half-baked ideas, and things I build b
 ---
 
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
-This used to be my homelab (before I went mini with [Goldentooth](https://github.com/goldentooth), now it's basically my dotfiles.
+This used to be my homelab (before I went mini with [Goldentooth](https://github.com/goldentooth)), now it's basically my dotfiles.
 
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
