@@ -21,7 +21,7 @@ Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, dist
 ---
 
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
-A bridge between real-world engineering and speculative tinkering. Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
+Wild-ass projects. Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
 
 {{ bitterbridge_repositories }}
 
@@ -35,7 +35,7 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ---
 
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
-The primordial soup. Side projects, early sketches, and speculative toys.
+Résumé projects. Professional work, polished tools, and things that make me look employable.
 
 {{ ndouglas_repositories }}
 

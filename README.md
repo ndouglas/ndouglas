@@ -27,7 +27,7 @@ Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, dist
 ---
 
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
-A bridge between real-world engineering and speculative tinkering. Reusable IaC, GitHub Actions, ML experiments, and Rust-based tooling.
+Wild-ass projects. Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
 
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
@@ -69,7 +69,7 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 ---
 
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
-The primordial soup. Side projects, early sketches, and speculative toys.
+Résumé projects. Professional work, polished tools, and things that make me look employable.
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🧭 [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
