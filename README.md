@@ -14,8 +14,8 @@
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 Résumé projects. Professional work, polished tools, and things that make me look employable.
 
-- 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
+- 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
 - 🗣️ [whispers](https://github.com/ndouglas/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
