@@ -12,7 +12,7 @@
 ---
 
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
-Résumé projects. Professional work, polished tools, and things that make me look employable.
+Various completed projects, semi-professional work, polished tools, and things that make me look like I know what I'm doing.
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
@@ -46,7 +46,7 @@ Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, dist
 ---
 
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
-Wild-ass projects. Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
+Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
 
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
@@ -58,7 +58,7 @@ Wild-ass projects. Weird experiments, speculative tinkering, half-baked ideas, a
 ---
 
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
-My personal creative core: philosophical fragments, PhD proposals, weird blog posts, symbolic systems, magical realism, and dream-logic infrastructure.
+This used to be my homelab (before I went mini with [Goldentooth](https://github.com/goldentooth), now it's basically my dotfiles.
 
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
