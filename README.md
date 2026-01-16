@@ -14,15 +14,14 @@
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 Résumé projects. Professional work, polished tools, and things that make me look employable.
 
+- 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
-- 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
 - 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
 - 🗣️ [whispers](https://github.com/ndouglas/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 💻 [blackpool](https://github.com/ndouglas/blackpool): An implementation of the Lox Virtual Machine, written in Rust
 - 📈 [linear-regression](https://github.com/ndouglas/linear-regression): Simple implementation of linear regression in Rust as a learning project.
 - ☕️ [distillation](https://github.com/ndouglas/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
-- ❓ [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
