@@ -11,13 +11,33 @@
 
 ---
 
+### 🌀 [**ndouglas**](https://github.com/ndouglas)
+Résumé projects. Professional work, polished tools, and things that make me look employable.
+
+- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
+- 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
+- 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
+- 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
+- 🗣️ [whispers](https://github.com/ndouglas/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
+- 💻 [blackpool](https://github.com/ndouglas/blackpool): An implementation of the Lox Virtual Machine, written in Rust
+- 📈 [linear-regression](https://github.com/ndouglas/linear-regression): Simple implementation of linear regression in Rust as a learning project.
+- ☕️ [distillation](https://github.com/ndouglas/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
+- ❓ [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
+- 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
+- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
+- 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
+- 🪾 [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
+
+
+---
+
 ## 🧰 Clusters, Systems & Experimental Infra
 
 ### 🦷 [**Goldentooth**](https://github.com/goldentooth)
 Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
@@ -29,17 +49,11 @@ Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, dist
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
 Wild-ass projects. Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
 
-- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
-- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- 🔢 [mips-sudoku-solver](https://github.com/bitterbridge/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
+- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
-- 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
-- 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
-- 💻 [blackpool](https://github.com/bitterbridge/blackpool): An implementation of the Lox Virtual Machine, written in Rust
-- 🧊 [unity-hashing-grid](https://github.com/bitterbridge/unity-hashing-grid): Hashing Grid implementation in Unity
-- ☕️ [distillation](https://github.com/bitterbridge/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 
 
 ---
@@ -64,18 +78,6 @@ My personal creative core: philosophical fragments, PhD proposals, weird blog po
 - 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
 - ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
-
-
----
-
-### 🌀 [**ndouglas**](https://github.com/ndouglas)
-Résumé projects. Professional work, polished tools, and things that make me look employable.
-
-- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
-- 🧭 [clork](https://github.com/ndouglas/clork): An attempt to remake _Zork_ in Clojure.
-- 🪾 [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
-- 🚜 [terraform](https://github.com/ndouglas/terraform): Terraform IaC for random things associated with my account.
-- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 
 
 ---
