@@ -14,8 +14,8 @@
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 Various completed projects, semi-professional work, polished tools, and things that make me look like I know what I'm doing.
 
-- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
+- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
