@@ -14,8 +14,8 @@
 ### 🌀 [**ndouglas**](https://github.com/ndouglas)
 Various completed projects, semi-professional work, polished tools, and things that make me look like I know what I'm doing.
 
-- 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
+- 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
