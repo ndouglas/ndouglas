@@ -35,8 +35,8 @@ Various completed projects, semi-professional work, polished tools, and things t
 ### 🦷 [**Goldentooth**](https://github.com/goldentooth)
 Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
@@ -50,8 +50,8 @@ Weird experiments, speculative tinkering, half-baked ideas, and things I build b
 
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 
 
@@ -60,11 +60,11 @@ Weird experiments, speculative tinkering, half-baked ideas, and things I build b
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
 This used to be my homelab (before I went mini with [Goldentooth](https://github.com/goldentooth)), now it's basically my dotfiles.
 
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
+- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
-- ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
 - 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
 - 🎵 [albums](https://github.com/hellholt/albums): A collection of YAML lists of albums in my listening queue
