@@ -35,8 +35,8 @@ Various completed projects, semi-professional work, polished tools, and things t
 ### 🦷 [**Goldentooth**](https://github.com/goldentooth)
 Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
 
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
@@ -48,9 +48,9 @@ Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, dist
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
 Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
 
+- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
-- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 
