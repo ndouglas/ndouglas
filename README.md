@@ -48,9 +48,9 @@ Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, dist
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
 Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
 
+- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 
@@ -60,8 +60,8 @@ Weird experiments, speculative tinkering, half-baked ideas, and things I build b
 ### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
 This used to be my homelab (before I went mini with [Goldentooth](https://github.com/goldentooth)), now it's basically my dotfiles.
 
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
