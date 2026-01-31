@@ -48,6 +48,7 @@ Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, dist
 ### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
 Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
 
+- ❓ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
