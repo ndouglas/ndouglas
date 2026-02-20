@@ -78,7 +78,7 @@ This used to be my homelab (before I went mini with [Goldentooth](https://github
 - 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
 - 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
 - ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
-- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
+- ❓ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 
 
 ---
