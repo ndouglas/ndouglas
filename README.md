@@ -1,18 +1,18 @@
-# 👋 Sup, I'm Nathan Douglas
+# 👋 Nathan Douglas
 
-- 👨 He/Him | 🧠 hapless idiot, curious generalist
-- 🥸 Also go by "Nate", "Nate Dogg", "Nug Doug", "Nug Diddy", "Niddle Diddle"...
-- 💻 ~14 years working in software, DevOps, platform & reliability engineering
-- 🧠 Now interested in MLOps, HPC, and simulation infrastructure
-- 🎓 Exploring the possibility of a [PhD in math, CS, or complexity science](https://github.com/hellholt/phd-ideas/)
-- 🏥 Working at [Agile Six](https://agile6.com/) on projects with the US Department of Veterans Affairs:
-  - [VA.gov Modernization](https://www.va.gov/modernization/) (10/2020–02/2024)
-  - [Patient Check-In](https://www.va.gov/maryland-health-care/stories/check-in-for-your-va-appointment-with-your-smartphone/) (02/2024–present)
+## Platform / infrastructure engineer exploring distributed systems, AI infrastructure, and simulation-driven engineering.
+
+Engineer with ~14 years building and operating software platforms, reliability infrastructure, and distributed systems.
+
+Currently working on VA.gov modernization at Agile Six.
+
+Primary research playground: **Goldentooth**, a Raspberry Pi compute cluster used to experiment with distributed systems, ML infrastructure, and observability pipelines.
 
 ---
 
-### 🌀 [**ndouglas**](https://github.com/ndouglas)
-Various completed projects, semi-professional work, polished tools, and things that make me look like I know what I'm doing.
+### 🌀 [**ndouglas**](https://github.com/ndouglas) — Production Tools & Polished Projects
+
+More mature or production-oriented projects, utilities, and tools.
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): ooh, a secret
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
@@ -30,10 +30,19 @@ Various completed projects, semi-professional work, polished tools, and things t
 
 ---
 
-## 🧰 Clusters, Systems & Experimental Infra
+### 🦷 [**Goldentooth**](https://github.com/goldentooth) — Distributed Systems Laboratory
 
-### 🦷 [**Goldentooth**](https://github.com/goldentooth)
-Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, distributed systems, observability, emergent behavior. Nothing is sacred. Everything is an experiment.
+Goldentooth is a small Raspberry Pi compute cluster used as an experimental lab for distributed systems and infrastructure research.
+
+Focus areas:
+
+• Distributed coordination and service discovery
+• Observability pipelines (Vector → Loki → Grafana → Prometheus)
+• ML training infrastructure simulation
+• Cluster orchestration (Kubernetes, Slurm, Nomad)
+• Failure injection and chaos testing
+
+The goal is to explore how complex infrastructure behaves under realistic constraints.
 
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
@@ -45,12 +54,20 @@ Raspberry Pi Bramble homelab - Talos Linux + Kubernetes. Failure injection, dist
 
 ---
 
-### 🌉 [**Bitterbridge**](https://github.com/bitterbridge)
-Weird experiments, speculative tinkering, half-baked ideas, and things I build because they seemed interesting at 2am.
+### 🌉 [**Bitterbridge**](https://github.com/bitterbridge) — Systems Experiments
 
+Exploratory projects focused on distributed algorithms, simulation, and unconventional infrastructure ideas.
+
+Typical themes:
+
+• CRDT-based distributed systems
+• gossip networks and decentralized coordination
+• agent architectures and simulation environments
+• infrastructure prototypes and experimental tools
+
+- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
-- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
 - 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
@@ -59,8 +76,9 @@ Weird experiments, speculative tinkering, half-baked ideas, and things I build b
 
 ---
 
-### ️‍🔥 [**Hellholt**](https://github.com/hellholt)
-This used to be my homelab (before I went mini with [Goldentooth](https://github.com/goldentooth)), now it's basically my dotfiles.
+### ️‍🔥 [**Hellholt**](https://github.com/hellholt) — Configuration & Personal Infrastructure
+
+Dotfiles, environment configuration, and supporting infrastructure for my development environments and cluster work.
 
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
@@ -85,16 +103,21 @@ This used to be my homelab (before I went mini with [Goldentooth](https://github
 
 ## 🎈 Outside the Terminal
 
+---
+
+# 🎈 Outside the Terminal
+
+When not building distributed systems:
+
 - 🇫🇷 Relearning French
 - 🧱 Building LEGO with [my kid](https://github.com/JomoDuggins)
 - 🖌️ Painting miniatures (and printing them faster than I can paint them)
 - 🧘‍♂️ Lifting, cycling, rowing — brain only works when body does
-- 👨‍🍳 Cooking (🥖 baking, 🧀 cheesemaking, 🍝 experimenting)
+- 👨‍🍳 Cooking (🥖 baking, 🧀 cheesemaking, 🍝 pasta experiments)
 - 🎥 [Letterboxd](https://letterboxd.com/supertempt768/)
 - 🎼 [RateYourMusic](https://rateyourmusic.com/~NathanDouglas)
 - 🎮 Not playing anything in my Steam backlog
 - 🎲 Not playing any of my board games either
-- 🌵 Practicing succulent restraint
 - 🧠 <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> Currently top 3% on [TryHackMe](https://tryhackme.com)
 
 ---
