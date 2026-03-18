@@ -45,9 +45,9 @@ Focus areas:
 The goal is to explore how complex infrastructure behaves under realistic constraints.
 
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
-- 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
 - 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
 
@@ -81,6 +81,7 @@ Typical themes:
 Dotfiles, environment configuration, and supporting infrastructure for my development environments and cluster work.
 
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
@@ -96,7 +97,6 @@ Dotfiles, environment configuration, and supporting infrastructure for my develo
 - 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
 - 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
 - ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
-- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 
 
 ---
