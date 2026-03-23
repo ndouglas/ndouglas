@@ -44,10 +44,10 @@ Focus areas:
 
 The goal is to explore how complex infrastructure behaves under realistic constraints.
 
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
 - ❓ [mcp](https://github.com/goldentooth/mcp): MCP server for the Goldentooth Bramble
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
 - 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
@@ -81,8 +81,8 @@ Typical themes:
 
 Dotfiles, environment configuration, and supporting infrastructure for my development environments and cluster work.
 
-- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
+- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
