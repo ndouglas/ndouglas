@@ -94,10 +94,10 @@ Dotfiles, environment configuration, and supporting infrastructure for my develo
 - 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
 - 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
 - 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
-- ❓ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
-- ❓ [goals](https://github.com/hellholt/goals): All of the things I want to do.
-- ❓ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
-- ❓ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
+- 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+- 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
+- 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
+- ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
 
 
 ---
