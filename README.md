@@ -67,9 +67,9 @@ Typical themes:
 • infrastructure prototypes and experimental tools
 
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
+- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
 - 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
@@ -82,7 +82,6 @@ Typical themes:
 Dotfiles, environment configuration, and supporting infrastructure for my development environments and cluster work.
 
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
-- ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
