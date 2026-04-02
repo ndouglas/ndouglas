@@ -14,12 +14,12 @@ Primary research playground: **Goldentooth**, a Raspberry Pi compute cluster use
 
 More mature or production-oriented projects, utilities, and tools.
 
+- 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
+- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): My README
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
-- 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
-- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
 - 🗣️ [whispers](https://github.com/ndouglas/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 💻 [blackpool](https://github.com/ndouglas/blackpool): An implementation of the Lox Virtual Machine, written in Rust
@@ -66,10 +66,10 @@ Typical themes:
 • agent architectures and simulation environments
 • infrastructure prototypes and experimental tools
 
-- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
-- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
+- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
+- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
 - 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
