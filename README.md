@@ -66,9 +66,9 @@ Typical themes:
 • agent architectures and simulation environments
 • infrastructure prototypes and experimental tools
 
+- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
 - 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
@@ -81,9 +81,9 @@ Typical themes:
 
 Dotfiles, environment configuration, and supporting infrastructure for my development environments and cluster work.
 
+- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
-- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
 - 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
