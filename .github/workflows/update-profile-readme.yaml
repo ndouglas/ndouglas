@@ -18,7 +18,7 @@ jobs:
       github-token: ${{ steps.get-github-token.outputs.github-token }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Assume IAM Role with defaults
         id: assume-iam-role
@@ -40,7 +40,7 @@ jobs:
       base64: ${{ steps.get-org-repos-md.outputs.base64 }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Get Org Repos Markdown
         id: get-org-repos-md
@@ -56,7 +56,7 @@ jobs:
       base64: ${{ steps.get-org-repos-md.outputs.base64 }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Get Org Repos Markdown
         id: get-org-repos-md
@@ -72,7 +72,7 @@ jobs:
       base64: ${{ steps.get-org-repos-md.outputs.base64 }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Get Org Repos Markdown
         id: get-org-repos-md
@@ -88,7 +88,7 @@ jobs:
       base64: ${{ steps.get-org-repos-md.outputs.base64 }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Get Org Repos Markdown
         id: get-org-repos-md
@@ -107,7 +107,7 @@ jobs:
       - get-org-repos-md-hellholt
     steps:
       - name: Checkout code
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Assume IAM Role with defaults
         id: assume-iam-role
