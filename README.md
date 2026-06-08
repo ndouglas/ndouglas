@@ -44,8 +44,8 @@ Focus areas:
 
 The goal is to explore how complex infrastructure behaves under realistic constraints.
 
-- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
+- 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
 - 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - ❓ [mcp](https://github.com/goldentooth/mcp): MCP server for the Goldentooth Bramble
