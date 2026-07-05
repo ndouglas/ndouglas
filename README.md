@@ -44,8 +44,8 @@ Focus areas:
 
 The goal is to explore how complex infrastructure behaves under realistic constraints.
 
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
@@ -66,15 +66,15 @@ Typical themes:
 • agent architectures and simulation environments
 • infrastructure prototypes and experimental tools
 
+- ❓ [.github](https://github.com/bitterbridge/.github): Special Repository
 - ❓ [goldengrove](https://github.com/bitterbridge/goldengrove): A tool for creating and exploring fantastic planets.
-- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
+- ❓ [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - ❓ [snakewood](https://github.com/bitterbridge/snakewood): An experimental MUD
-- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
-- ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
-- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
+- ❓ [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- ❓ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
+- ❓ [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
-- 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
+- ❓ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
 
 
 ---
