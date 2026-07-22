@@ -68,8 +68,8 @@ Typical themes:
 
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
-- ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - ❓ [goldengrove](https://github.com/bitterbridge/goldengrove): A tool for creating and exploring fantastic planets.
 - ❓ [snakewood](https://github.com/bitterbridge/snakewood): An experimental MUD
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
