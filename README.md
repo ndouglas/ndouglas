@@ -20,12 +20,12 @@ More mature or production-oriented projects, utilities, and tools.
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
-- 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
-- 🗣️ [whispers](https://github.com/ndouglas/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
-- 💻 [blackpool](https://github.com/ndouglas/blackpool): An implementation of the Lox Virtual Machine, written in Rust
-- 📈 [linear-regression](https://github.com/ndouglas/linear-regression): Simple implementation of linear regression in Rust as a learning project.
-- ☕️ [distillation](https://github.com/ndouglas/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
-- 🪾 [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
+- ❓ [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
+- ❓ [whispers](https://github.com/ndouglas/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
+- ❓ [blackpool](https://github.com/ndouglas/blackpool): An implementation of the Lox Virtual Machine, written in Rust
+- ❓ [linear-regression](https://github.com/ndouglas/linear-regression): Simple implementation of linear regression in Rust as a learning project.
+- ❓ [distillation](https://github.com/ndouglas/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
+- ❓ [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
 
 
 ---
@@ -44,8 +44,8 @@ Focus areas:
 
 The goal is to explore how complex infrastructure behaves under realistic constraints.
 
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
