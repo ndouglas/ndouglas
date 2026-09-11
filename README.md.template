@@ -1,12 +1,12 @@
 # 👋 Nathan Douglas
 
-## Platform / infrastructure engineer exploring distributed systems, AI infrastructure, and simulation-driven engineering.
+## Senior software engineer who makes production systems safe to change, and ends up owning them.
 
-Engineer with ~14 years building and operating software platforms, reliability infrastructure, and distributed systems.
+Fourteen years building and operating production software, most recently as the engineer of record for the VA.gov Check-In platform at Agile Six: application code, infrastructure, delivery pipeline, and on-call for four services handling nearly two million requests a day.
 
-Currently working on VA.gov modernization at Agile Six.
+Comfortable anywhere between application code and the platform beneath it, and drawn to the unglamorous work that keeps systems changeable: tests that gate every migration, monitors that fail loud, credentials that cannot leak, legacy that gets deleted rather than accumulated. Works AI-assisted end to end and backs every claim with hand-verified evidence.
 
-Primary research playground: **Goldentooth**, a Raspberry Pi compute cluster used to experiment with distributed systems, ML infrastructure, and observability pipelines.
+📄 [Résumé](https://ndouglas.github.io/resume/resume.pdf), built from a content database where every line carries its evidence. 🌐 [darkdell.net](https://darkdell.net).
 
 ---
 
@@ -18,19 +18,27 @@ More mature or production-oriented projects, utilities, and tools.
 
 ---
 
-### 🦷 [**Goldentooth**](https://github.com/goldentooth) — Distributed Systems Laboratory
+### 🏔️ [**Hornvale**](https://github.com/hornvale) — Deterministic Simulation
 
-Goldentooth is a small Raspberry Pi compute cluster used as an experimental lab for distributed systems and infrastructure research.
+A large Rust world simulation whose guardrails are the point: architecture rules and documentation invariants enforced as tests, byte-identical deterministic output verified across CPU architectures, a serialized merge queue, and mutation tooling written after false-green results. Design decisions, retrospectives, and the running chronicle are published as a [book](https://hornvale.github.io/book/).
+
+- 🏔️ [hornvale](https://github.com/hornvale/hornvale): The simulation and its guardrails
+- 🪐 [orrery](https://github.com/hornvale/orrery): A three.js planetarium client pinned to the simulation's output
+- 📖 [book](https://github.com/hornvale/book): Constitution, decisions, chronicle
+
+---
+
+### 🦷 [**Goldentooth**](https://github.com/goldentooth) — Kubernetes Laboratory
+
+A 17-node Talos Linux Kubernetes cluster on Raspberry Pis, run entirely through Flux GitOps, used to learn how infrastructure behaves when it is allowed to break.
 
 Focus areas:
 
-• Distributed coordination and service discovery
-• Observability pipelines (Vector → Loki → Grafana → Prometheus)
-• ML training infrastructure simulation
-• Cluster orchestration (Kubernetes, Slurm, Nomad)
-• Failure injection and chaos testing
-
-The goal is to explore how complex infrastructure behaves under realistic constraints.
+• GitOps and declarative infrastructure (Talos, Flux CD, Cilium, SOPS)
+• Observability end to end (Prometheus, Loki, Tempo, Grafana Alloy, Gatus, blackbox exporter)
+• Chaos engineering and runtime security (Chaos Mesh, Falco)
+• Internal PKI and certificate automation (step-ca, cert-manager)
+• A 100-plus-entry engineering journal of what broke and why ([clog](https://github.com/goldentooth/clog))
 
 {{ goldentooth_repositories }}
 
