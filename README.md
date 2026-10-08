@@ -92,9 +92,9 @@ Typical themes:
 Dotfiles, environment configuration, and supporting infrastructure for my development environments and cluster work.
 
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
+- 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
-- 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 - 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
