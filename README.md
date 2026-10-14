@@ -22,10 +22,10 @@ More mature or production-oriented projects, utilities, and tools.
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
 - 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
 - 🗣️ [whispers](https://github.com/ndouglas/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
-- 💻 [blackpool](https://github.com/ndouglas/blackpool): An implementation of the Lox Virtual Machine, written in Rust
-- 📈 [linear-regression](https://github.com/ndouglas/linear-regression): Simple implementation of linear regression in Rust as a learning project.
-- ☕️ [distillation](https://github.com/ndouglas/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
-- 🪾 [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
+- ❓ [blackpool](https://github.com/ndouglas/blackpool): An implementation of the Lox Virtual Machine, written in Rust
+- ❓ [linear-regression](https://github.com/ndouglas/linear-regression): Simple implementation of linear regression in Rust as a learning project.
+- ❓ [distillation](https://github.com/ndouglas/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
+- ❓ [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
 
 
 ---
