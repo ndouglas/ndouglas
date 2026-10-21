@@ -1,23 +1,52 @@
 # 👋 Nathan Douglas
 
-## Senior software engineer who makes production systems safe to change, and ends up owning them.
+## Software engineer moving into AI safety research, starting with the collective behavior of interacting AI systems.
 
-Fourteen years building and operating production software, most recently as the engineer of record for the VA.gov Check-In platform at Agile Six: application code, infrastructure, delivery pipeline, and on-call for four services handling nearly two million requests a day.
+I want to help make interacting AI systems safer by understanding the collective behavior that single-agent evaluations can miss. I'm exploring when established models of group behavior, and populations of simple agents, predict how LLM populations respond to changes in communication, information access and oversight, and I'm building reproducible experiments to find out where those models hold and where they break.
 
-Comfortable anywhere between application code and the platform beneath it, and drawn to the unglamorous work that keeps systems changeable: tests that gate every migration, monitors that fail loud, credentials that cannot leak, legacy that gets deleted rather than accumulated. Works AI-assisted end to end and backs every claim with hand-verified evidence.
+I come to this from fourteen years of building and operating production software, most recently as engineer of record for the VA.gov Check-In platform, plus earlier work in nuclear power engineering and healthcare and undergraduate study in philosophy, sociology and psychology. I'd like to bring that engineering discipline to research, alongside people who can tell me where I'm wrong.
 
-📄 [Résumé](https://ndouglas.github.io/resume/resume.pdf), built from a content database where every line carries its evidence. 🌐 [darkdell.net](https://darkdell.net).
+📄 [Résumé](https://ndouglas.github.io/resume/resume.pdf) · 🧫 [BottomUpLab](https://ndouglas.github.io/BottomUpLab/) · 🌐 [darkdell.net](https://darkdell.net)
 
 ---
 
-### 🌀 [**ndouglas**](https://github.com/ndouglas) — Production Tools & Polished Projects
+### 🔭 Now
 
-More mature or production-oriented projects, utilities, and tools.
+- **First research question (November 2026):** do LLMs tell independent supporting evidence apart from repeated reports of a single source? Compare simple-model predictions with LLM behavior across no-peer, independent-evidence and repeated-source conditions, then test whether exposing provenance changes the outcome. A single model reading controlled reports is only a baseline; showing a *collective* failure needs interacting agents relaying and reusing reports.
+- **Learning:** completed BlueDot Impact's AGI Strategy course (October 2026) and taking its Technical AI Safety course, October 26–31; working through PyTorch and interpretability fundamentals.
+- **Open to:** research engineering, evaluation and infrastructure work alongside researchers; collaboration on multi-agent and collective-behavior questions; and senior platform engineering. Remote from northeast Ohio.
+
+---
+
+### 🧪 Selected Work
+
+**🧫 [BottomUpLab](https://github.com/ndouglas/BottomUpLab)** ([live](https://ndouglas.github.io/BottomUpLab/)): agent-based models of societies, markets, games and minds, each reproduced from its source paper and measured against it. Rust compiled to WebAssembly, with seeded experiments, parameter sweeps, replayable sessions and regression tests. Every ambiguity in a paper becomes a named switch, and a reproducibility register records where published findings don't reproduce: Sugarscape's VI-2 crash and V-2 endemic disease among them.
+
+**🏔️ [Hornvale](https://github.com/hornvale)**: a large Rust world simulation whose guardrails are the point: architecture rules and documentation invariants enforced as tests, byte-identical deterministic output verified across CPU architectures, and mutation tooling written after false-green results. Decisions, retrospectives and the running chronicle are published as a [book](https://hornvale.github.io/book/).
+
+**🦷 [Goldentooth](https://github.com/goldentooth)**: a 17-node Talos Kubernetes cluster on Raspberry Pis, run entirely through Flux GitOps, used to learn how infrastructure behaves when it's allowed to break. Observability end to end, chaos engineering, internal PKI, and a 100-plus-entry [journal](https://github.com/goldentooth/clog) of what broke and why.
+
+**🕴️ [resume](https://github.com/ndouglas/resume)**: my résumé as a content database where every line carries an evidence pointer, rendered per profile to LaTeX and PDF.
+
+---
+
+### 🏗️ Engineering Background
+
+- **Production ownership:** engineer of record for four VA.gov patient check-in services handling nearly two million requests a day: application code, infrastructure, delivery pipelines and on-call; led the migration to a new AWS account.
+- **Testing and reproducibility:** a developer platform of 40-plus reusable infrastructure modules integration-tested against real AWS, and 200-plus end-to-end tests of health-record appointment flows that link failing assertions to execution traces.
+- **Failure investigation:** traced an error rate below 0.01% to a longstanding silent authorization defect and shipped the fix overnight; introduced the team's first postmortem and a 24-hour postmortem policy.
+
+---
+
+<details>
+<summary><b>🗂️ Everything else</b></summary>
+
+#### 🌀 [ndouglas](https://github.com/ndouglas)
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): My README
-- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
+- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
 - 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
@@ -27,52 +56,17 @@ More mature or production-oriented projects, utilities, and tools.
 - ☕️ [distillation](https://github.com/ndouglas/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 - 🪾 [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
 
+#### 🦷 [Goldentooth](https://github.com/goldentooth): Kubernetes laboratory
 
----
-
-### 🏔️ [**Hornvale**](https://github.com/hornvale) — Deterministic Simulation
-
-A large Rust world simulation whose guardrails are the point: architecture rules and documentation invariants enforced as tests, byte-identical deterministic output verified across CPU architectures, a serialized merge queue, and mutation tooling written after false-green results. Design decisions, retrospectives, and the running chronicle are published as a [book](https://hornvale.github.io/book/).
-
-- 🏔️ [hornvale](https://github.com/hornvale/hornvale): The simulation and its guardrails
-- 🪐 [orrery](https://github.com/hornvale/orrery): A three.js planetarium client pinned to the simulation's output
-- 📖 [book](https://github.com/hornvale/book): Constitution, decisions, chronicle
-
----
-
-### 🦷 [**Goldentooth**](https://github.com/goldentooth) — Kubernetes Laboratory
-
-A 17-node Talos Linux Kubernetes cluster on Raspberry Pis, run entirely through Flux GitOps, used to learn how infrastructure behaves when it is allowed to break.
-
-Focus areas:
-
-• GitOps and declarative infrastructure (Talos, Flux CD, Cilium, SOPS)
-• Observability end to end (Prometheus, Loki, Tempo, Grafana Alloy, Gatus, blackbox exporter)
-• Chaos engineering and runtime security (Chaos Mesh, Falco)
-• Internal PKI and certificate automation (step-ca, cert-manager)
-• A 100-plus-entry engineering journal of what broke and why ([clog](https://github.com/goldentooth/clog))
-
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
 - ❓ [mcp](https://github.com/goldentooth/mcp): MCP server for the Goldentooth Bramble
 - 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
 
-
----
-
-### 🌉 [**Bitterbridge**](https://github.com/bitterbridge) — Systems Experiments
-
-Exploratory projects focused on distributed algorithms, simulation, and unconventional infrastructure ideas.
-
-Typical themes:
-
-• CRDT-based distributed systems
-• gossip networks and decentralized coordination
-• agent architectures and simulation environments
-• infrastructure prototypes and experimental tools
+#### 🌉 [Bitterbridge](https://github.com/bitterbridge): systems experiments
 
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
@@ -84,48 +78,15 @@ Typical themes:
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
 - 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
 
+#### ️‍🔥 [Hellholt](https://github.com/hellholt): dotfiles and personal infrastructure
 
----
-
-### ️‍🔥 [**Hellholt**](https://github.com/hellholt) — Configuration & Personal Infrastructure
-
-Dotfiles, environment configuration, and supporting infrastructure for my development environments and cluster work.
-
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
-- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
-- 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
-- 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
-- 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
-- ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
-- 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
-- 🎵 [albums](https://github.com/hellholt/albums): A collection of YAML lists of albums in my listening queue
-- 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
-- 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
-- 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
-- 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
-- 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
-- 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
-- ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
-
+</details>
 
 ---
 
 ## 🎈 Outside the Terminal
 
-When not building distributed systems:
-
-- 🇫🇷 Relearning French
-- 🧱 Building LEGO with [my kid](https://github.com/JomoDuggins)
-- 🖌️ Painting miniatures (and printing them faster than I can paint them)
-- 🧘‍♂️ Lifting, cycling, rowing — brain only works when body does
-- 👨‍🍳 Cooking (🥖 baking, 🧀 cheesemaking, 🍝 pasta experiments)
-- 🎥 [Letterboxd](https://letterboxd.com/supertempt768/)
-- 🎼 [RateYourMusic](https://rateyourmusic.com/~NathanDouglas)
-- 🎮 Not playing anything in my Steam backlog
-- 🎲 Not playing any of my board games either
-- 🧠 <img src="https://tryhackme-badges.s3.amazonaws.com/lyssicc62.png" alt="TryHackMe"> Currently top 3% on [TryHackMe](https://tryhackme.com)
-
----
+Relearning French, building LEGO with [my kid](https://github.com/JomoDuggins), painting miniatures, lifting, cycling and rowing, and cooking (bread, cheese, pasta). Films on [Letterboxd](https://letterboxd.com/supertempt768/), music on [RateYourMusic](https://rateyourmusic.com/~NathanDouglas).
 
 !["I try to make everyone's life a little more surreal."](https://github.com/user-attachments/assets/6784e08b-88b1-4760-a856-ed1d6e17c0df)
 
