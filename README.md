@@ -44,9 +44,9 @@ I come to this from fourteen years of building and operating production software
 #### 🌀 [ndouglas](https://github.com/ndouglas)
 
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): My README
+- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
-- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
 - 🧊 [unity-hashing-grid](https://github.com/ndouglas/unity-hashing-grid): Hashing Grid implementation in Unity
@@ -55,6 +55,7 @@ I come to this from fourteen years of building and operating production software
 - 📈 [linear-regression](https://github.com/ndouglas/linear-regression): Simple implementation of linear regression in Rust as a learning project.
 - ☕️ [distillation](https://github.com/ndouglas/distillation): An experiment with distillation using various combinations of naïve implementations, adversarial training, Jacobian penalties, and approximate Hessian penalties.
 - 🪾 [arborhedron](https://github.com/ndouglas/arborhedron): An exploration of Platonic symmetry, emergent structures, symbolic recursion, and ideal-vs-real tension.
+
 
 #### 🦷 [Goldentooth](https://github.com/goldentooth): Kubernetes laboratory
 
@@ -65,6 +66,7 @@ I come to this from fourteen years of building and operating production software
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
 - ❓ [mcp](https://github.com/goldentooth/mcp): MCP server for the Goldentooth Bramble
 - 🛡️ [asoiaf-noble-house-images](https://github.com/goldentooth/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+
 
 #### 🌉 [Bitterbridge](https://github.com/bitterbridge): systems experiments
 
@@ -77,6 +79,7 @@ I come to this from fourteen years of building and operating production software
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
 - 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
+
 
 #### ️‍🔥 [Hellholt](https://github.com/hellholt): dotfiles and personal infrastructure
 
