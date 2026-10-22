@@ -43,9 +43,9 @@ I come to this from fourteen years of building and operating production software
 
 #### 🌀 [ndouglas](https://github.com/ndouglas)
 
+- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): My README
 - 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
-- 👋 [ndouglas](https://github.com/ndouglas/ndouglas): My README
 - 🧁 [BottomUpLab](https://github.com/ndouglas/BottomUpLab): Agent-based models reproduced from their source papers, in the browser
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
