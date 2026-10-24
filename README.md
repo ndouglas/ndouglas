@@ -43,10 +43,10 @@ I come to this from fourteen years of building and operating production software
 
 #### 🌀 [ndouglas](https://github.com/ndouglas)
 
+- 🧁 [BottomUpLab](https://github.com/ndouglas/BottomUpLab): Agent-based models reproduced from their source papers, in the browser
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): My README
 - 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
-- 🧁 [BottomUpLab](https://github.com/ndouglas/BottomUpLab): Agent-based models reproduced from their source papers, in the browser
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
@@ -60,8 +60,8 @@ I come to this from fourteen years of building and operating production software
 
 #### 🦷 [Goldentooth](https://github.com/goldentooth): Kubernetes laboratory
 
-- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 👋 [.github](https://github.com/goldentooth/.github): My ✨special ✨ repository
+- 🚜 [terraform](https://github.com/goldentooth/terraform): General Terraform Infrastructure-as-Code for Goldentooth
 - 🚜 [gitops](https://github.com/goldentooth/gitops): GitOps repository for Goldentooth Talos cluster
 - 🧱 [clog](https://github.com/goldentooth/clog): The changelog formerly known as "Kubernetes, the _Excruciating_ Way".
 - 🏗️ [cluster](https://github.com/goldentooth/cluster): Declarative definition for Goldentooth.
