@@ -12,6 +12,7 @@ I come to this from fourteen years of building and operating production software
 
 ### 🔭 Now
 
+- **Latest:** [*A Legal Warning Can Prevent an LLM Cartel, but Not Break One*](https://apartresearch.com/sprints/projects/a-legal-warning-can-prevent-an-llm-cartel-but-not-break-one-s3jy) (Apart Research AI Collusion Sprint, October 2026). In a double-auction market, a legal notice delivered with a CEO's price-fixing instruction prevented a GPT-4.1 seller cartel, but the same notice an hour later barely moved it, and a trusted peer seller couldn't break it. [Code](https://github.com/ndouglas/collusion_hackathon/tree/undercover/llm-agent-collusion).
 - **First research question (November 2026):** do LLMs tell independent supporting evidence apart from repeated reports of a single source? Compare simple-model predictions with LLM behavior across no-peer, independent-evidence and repeated-source conditions, then test whether exposing provenance changes the outcome. A single model reading controlled reports is only a baseline; showing a *collective* failure needs interacting agents relaying and reusing reports.
 - **Learning:** completed BlueDot Impact's AGI Strategy course (October 2026) and taking its Technical AI Safety course, October 26–31; working through PyTorch and interpretability fundamentals.
 - **Open to:** research engineering, evaluation and infrastructure work alongside researchers; collaboration on multi-agent and collective-behavior questions; and senior platform engineering. Remote from northeast Ohio.
