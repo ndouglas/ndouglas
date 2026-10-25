@@ -43,10 +43,10 @@ I come to this from fourteen years of building and operating production software
 
 #### 🌀 [ndouglas](https://github.com/ndouglas)
 
+- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 👋 [ndouglas](https://github.com/ndouglas/ndouglas): My README
 - 🧁 [BottomUpLab](https://github.com/ndouglas/BottomUpLab): Agent-based models reproduced from their source papers, in the browser
 - 🕴️ [resume](https://github.com/ndouglas/resume): My résumé, written in LaTeX, with continuous delivery or something.
-- 🎮 [greenstone](https://github.com/ndouglas/greenstone): A basic NES emulator written in Rust with an emphasis on debugging and game development.
 - 🎲 [longtable](https://github.com/ndouglas/longtable): LISP + ECS + Rule Engine
 - 🧭 [clork](https://github.com/ndouglas/clork): A faithful port of _Zork_ to Clojure
 - 🔢 [mips-sudoku-solver](https://github.com/ndouglas/mips-sudoku-solver): A Sudoku solver, written in MIPS R4K assembly.
@@ -72,8 +72,8 @@ I come to this from fourteen years of building and operating production software
 #### 🌉 [Bitterbridge](https://github.com/bitterbridge): systems experiments
 
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - ❓ [goldengrove](https://github.com/bitterbridge/goldengrove): A tool for creating and exploring fantastic planets.
 - ❓ [snakewood](https://github.com/bitterbridge/snakewood): An experimental MUD
