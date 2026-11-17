@@ -80,7 +80,7 @@ I come to this from fourteen years of building and operating production software
 - ❓ [snakewood](https://github.com/bitterbridge/snakewood): An experimental MUD
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
-- ❓ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
+- 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
 
 
 #### ️‍🔥 [Hellholt](https://github.com/hellholt): dotfiles and personal infrastructure
